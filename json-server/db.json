@@ -1,0 +1,2913 @@
+{
+  "profile": {
+    "data": {
+      "id": "3948941d-f535-44ee-a583-02dbd94badc3",
+      "first_name": "Алексей",
+      "last_name": "Белоусов",
+      "middle_name": null,
+      "email": "alexey.beleg@gmail.com",
+      "phone": "+7(911)-113-83-01",
+      "city": "Сакнкт-Петербург",
+      "education": {
+        "id": "6b9f1689-f430-4e4c-9fea-8ed703bdeadb",
+        "university_id": "9aa45901-c00c-4f59-b629-3e83bdbc07c1",
+        "university_name": "Университет ИТМО",
+        "department": "Инфокуманиционных Технологий",
+        "speciality": "Интеллекутальные системы",
+        "faculty": "Естественно научный",
+        "begin_study_year": 2012,
+        "finish_study_year": 2016,
+        "education_type": "Бакаллавриат",
+        "university": {
+          "id": "9aa45901-c00c-4f59-b629-3e83bdbc07c1",
+          "full_name": "Университет ИТМО",
+          "short_name": "ИТМО",
+          "org_name": "Федеральное государственное автономное образовательное учреждение высшего образования «Национальный исследовательский университет ИТМО».",
+          "inn": null,
+          "kpp": null,
+          "address": null,
+          "city": "Санкт-Петербург",
+          "phone": null,
+          "email": null,
+          "site": null,
+          "post_code": null,
+          "image": "img/userpic.png",
+          "has_contract": false,
+          "contract_number": null,
+          "contract_status": "none",
+          "contract_begin_date": null,
+          "contract_finish_date": null,
+          "contact_person": null,
+          "created_at": "2023-04-13T10:36:22.000000Z",
+          "docs": []
+        }
+      },
+      "birth_date": "1993-06-23",
+      "photo": "img/userpic.png",
+      "source": "main",
+      "documents": [
+        {
+          "id": "1",
+          "user_id": "user1",
+          "type": "Educational",
+          "name": "Банковское дело",
+          "path": "/path/to/certificate_1.pdf",
+          "created_at": "01.04.2016"
+        },
+        {
+          "id": "2",
+          "user_id": "user1",
+          "type": "Educational",
+          "name": "Введение в экономику",
+          "path": "/path/to/certificate_2.pdf",
+          "created_at": "01.04.2018"
+        }
+      ],
+      "coursers": [],
+      "events": [
+        {
+          "id": "0b273167-3d1f-4c19-a43e-7cdb905df18b",
+          "title": "Цифровой рубль: новая реальность в экономике",
+          "session_id": 1408688892,
+          "external_id": 361939298,
+          "description": "Нынешняя эпоха высоких технологий уверенно входит в нашу жизнь. Целью вебинара является повышение уровня финансовой грамотности, а также предоставления знаний по актуальным финансовым темам для студентов.\n\nНа встрече вместе с экспертом разберемся :\n- Что такое «цифровой рубль», актуальность системы и ее внедрение;\n- Как использовать и что нужно знать о данном явлении?\n- Для чего нужны цифровые активы, что с ними можно делать, а что нельзя.\n \nТакже поговорим о том, как читать и интерпретировать для себя новости, как выбирать источники и экспертов, на какие события обращать внимание.\n\nСпикер — руководитель отдела  «Банки\/Финансовые рынки» службы экономической информации информационного агентства ТАСС, соавтор учебного пособия «Введение в деловую журналистику» для Национального исследовательского университета «Высшая школа экономики» (НИУ ВШЭ) Маргарита Шпилевская.",
+          "image": "img/events/ruble.png",
+          "created_at": "2023-04-03T18:34:15.000000Z",
+          "link": "https:\/\/events.webinar.ru\/",
+          "is_online": 1,
+          "status": "ACTIVE",
+          "datetime": "2024-04-13 18:00:00",
+          "date_time": "2024-04-13 18:00:00",
+          "author": "Jon Doe",
+          "event_id": 361939298,
+          "meta": {
+            "links": {
+              "vk": "https:\/\/vk.ru",
+              "video_preview": null
+            },
+            "place": null
+          },
+          "program": null
+        }
+      ],
+      "tests": [],
+      "created_at": "2023-05-04T07:48:38.000000Z",
+      "updated_at": "2023-05-26T06:24:10.000000Z"
+    },
+    "success": true
+  },
+  "university": {
+    "success": true,
+    "data": {
+      "id": "fefd61df-e5bf-4aa6-9825-2bd5f86af3c2",
+      "full_name": "Университет ИТМО",
+      "short_name": "ИТМО",
+      "city": "Санкт-Петербург",
+      "post_code": "197101",
+      "address": "Кронверкский пр., 49, Санкт-Петербург, Россия",
+      "phone": "+7 (812) 457-17-90",
+      "email": "info@itmo.ru",
+      "org_name": "ФГАОУ ВО«Национальный исследовательский университет ИТМО»",
+      "inn": "7813045547",
+      "kpp": "781301001",
+      "has_contract": false,
+      "contract_number": "",
+      "contract_begin_date": "",
+      "contract_finish_date": "",
+      "site": "https://itmo.ru/",
+      "contact_person": "",
+      "image": "img/univerpic.png",
+      "docs": [
+        {
+          "id": "6fc1df39-13b3-47c9-ac84-deee20b18621",
+          "university_id": "fefd61df-e5bf-4aa6-9825-2bd5f86af3c2",
+          "file_name": "Реквизиты.doc",
+          "file_path": "docs/kvit2020_summer.doc",
+          "signed_at": "1 января 2022",
+          "expires_at": "1 января 2024"
+        },
+        {
+          "id": "7871d3b1-29bb-4295-805e-ea497e363c52",
+          "university_id": "fefd61df-e5bf-4aa6-9825-2bd5f86af3c2",
+          "file_name": "Договор о партнёрстве.doc",
+          "file_path": "docs/",
+          "signed_at": "1 января 2022",
+          "expires_at": "1 января 2024"
+        }
+      ],
+      "contract_status": "none"
+    },
+    "errors": null
+  },
+  "universities": {
+    "data": {
+      "items": [
+        {
+          "id": "009cc3d1-3134-4633-b812-f8f0e8f95a9e",
+          "full_name": "Казанский национальный исследовательский технологический университет",
+          "short_name": "КНИТУ",
+          "org_name": null,
+          "inn": null,
+          "kpp": null,
+          "address": null,
+          "city": "Казань",
+          "phone": null,
+          "email": null,
+          "site": null,
+          "post_code": null,
+          "image": "https:\/\/facultetus.ru\/images\/universities\/28e480d8072e52e7298ad69583b68122.png",
+          "has_contract": false,
+          "contract_number": null,
+          "contract_status": "none",
+          "contract_begin_date": null,
+          "contract_finish_date": null,
+          "contact_person": null,
+          "created_at": "2023-04-13T10:36:22.000000Z",
+          "docs": []
+        },
+        {
+          "id": "014c6322-4648-494d-94ec-7ca7fd1c5a41",
+          "full_name": "Казанский национальный исследовательский технический университет имени А. Н. Туполева",
+          "short_name": "КНИТУ-КАИ",
+          "org_name": null,
+          "inn": null,
+          "kpp": null,
+          "address": null,
+          "city": "Казань",
+          "phone": null,
+          "email": null,
+          "site": null,
+          "post_code": null,
+          "image": "https:\/\/facultetus.ru\/images\/universities\/55dd9ab669cba50eee0f628fc92797a2.png",
+          "has_contract": false,
+          "contract_number": null,
+          "contract_status": "none",
+          "contract_begin_date": null,
+          "contract_finish_date": null,
+          "contact_person": null,
+          "created_at": "2023-04-13T10:36:22.000000Z",
+          "docs": []
+        },
+        {
+          "id": "018d0636-554b-493c-bc97-c60e663a3854",
+          "full_name": "Балашовский институт (филиал) Саратовского Национального Исследовательского Государственного Университета имени Н.Г.Чернышевского",
+          "short_name": "БИ СГУ",
+          "org_name": null,
+          "inn": null,
+          "kpp": null,
+          "address": null,
+          "city": "Балашов",
+          "phone": null,
+          "email": null,
+          "site": null,
+          "post_code": null,
+          "image": "https:\/\/facultetus.ru\/images\/universities\/3b0eca9ae601a97ab244d4bec8751d65.png",
+          "has_contract": false,
+          "contract_number": null,
+          "contract_status": "none",
+          "contract_begin_date": null,
+          "contract_finish_date": null,
+          "contact_person": null,
+          "created_at": "2023-04-13T10:36:21.000000Z",
+          "docs": []
+        },
+        {
+          "id": "01b7d684-28f8-4648-aef5-b5c6a8e06a57",
+          "full_name": "Морской государственный университет имени адмирала Г. И. Невельского",
+          "short_name": "МГУ им. адм. Г.И. Невельского",
+          "org_name": null,
+          "inn": null,
+          "kpp": null,
+          "address": null,
+          "city": "Владивосток",
+          "phone": null,
+          "email": null,
+          "site": null,
+          "post_code": null,
+          "image": "https:\/\/facultetus.ru\/images\/universities\/86d19b82d66f44de6e5639551cf77a3d.png",
+          "has_contract": false,
+          "contract_number": null,
+          "contract_status": "none",
+          "contract_begin_date": null,
+          "contract_finish_date": null,
+          "contact_person": null,
+          "created_at": "2023-04-13T10:36:22.000000Z",
+          "docs": []
+        },
+        {
+          "id": "01d992db-95bc-4172-80a8-187d82d77fc4",
+          "full_name": "Кубанский государственный университет",
+          "short_name": "КубГУ",
+          "org_name": null,
+          "inn": null,
+          "kpp": null,
+          "address": null,
+          "city": "Краснодар",
+          "phone": null,
+          "email": null,
+          "site": null,
+          "post_code": null,
+          "image": "https:\/\/facultetus.ru\/images\/universities\/bda18a01c505e958af51faf9df8dc4b8.png",
+          "has_contract": false,
+          "contract_number": null,
+          "contract_status": "none",
+          "contract_begin_date": null,
+          "contract_finish_date": null,
+          "contact_person": null,
+          "created_at": "2023-04-13T10:36:22.000000Z",
+          "docs": []
+        },
+        {
+          "id": "02b99344-2043-4124-8010-46e7c4d5746e",
+          "full_name": "Магнитогорский государственный технический университет им. Г.И. Носова",
+          "short_name": "МГТУ им. Г.И. Носова",
+          "org_name": null,
+          "inn": null,
+          "kpp": null,
+          "address": null,
+          "city": "Магнитогорск",
+          "phone": null,
+          "email": null,
+          "site": null,
+          "post_code": null,
+          "image": "https:\/\/facultetus.ru\/images\/universities\/f1363d6415849febc70631c962e02cbe.png",
+          "has_contract": false,
+          "contract_number": null,
+          "contract_status": "none",
+          "contract_begin_date": null,
+          "contract_finish_date": null,
+          "contact_person": null,
+          "created_at": "2023-04-13T10:36:22.000000Z",
+          "docs": []
+        },
+        {
+          "id": "0425ed5c-52c6-42af-8350-08bcb115f598",
+          "full_name": "Тамбовский государственный технический университет",
+          "short_name": "ТГТУ",
+          "org_name": null,
+          "inn": null,
+          "kpp": null,
+          "address": null,
+          "city": "Тамбов",
+          "phone": null,
+          "email": null,
+          "site": null,
+          "post_code": null,
+          "image": "https:\/\/facultetus.ru\/images\/universities\/4b78f3a9bc819b108c2c045cc3d399ce.png",
+          "has_contract": false,
+          "contract_number": null,
+          "contract_status": "none",
+          "contract_begin_date": null,
+          "contract_finish_date": null,
+          "contact_person": null,
+          "created_at": "2023-04-13T10:36:24.000000Z",
+          "docs": []
+        },
+        {
+          "id": "048871c4-30cd-434e-8658-fe3d60a0f00c",
+          "full_name": "Государственный аграрный университет Северного Зауралья",
+          "short_name": "ГАУ Северного Зауралья",
+          "org_name": null,
+          "inn": null,
+          "kpp": null,
+          "address": null,
+          "city": "Тюмень",
+          "phone": null,
+          "email": null,
+          "site": null,
+          "post_code": null,
+          "image": "https:\/\/facultetus.ru\/images\/universities\/407a075dba70d6e93e118a5a164fff03.png",
+          "has_contract": false,
+          "contract_number": null,
+          "contract_status": "none",
+          "contract_begin_date": null,
+          "contract_finish_date": null,
+          "contact_person": null,
+          "created_at": "2023-04-13T10:36:22.000000Z",
+          "docs": []
+        },
+        {
+          "id": "05b786f5-0f6d-498f-804b-6f795d989dd4",
+          "full_name": "Байкальский государственный университет",
+          "short_name": "Байкальский государственный университет",
+          "org_name": "",
+          "inn": "",
+          "kpp": "",
+          "address": "г. Иркутск, ул. Ленина, 11",
+          "city": "Иркутск",
+          "phone": "8(3952)52-26-22",
+          "email": "info@bgu.ru",
+          "site": "",
+          "post_code": "664003",
+          "image": "",
+          "has_contract": true,
+          "contract_number": "УС2019ДС-4",
+          "contract_status": "signed",
+          "contract_begin_date": null,
+          "contract_finish_date": null,
+          "contact_person": "",
+          "created_at": "2023-04-03T18:14:58.000000Z",
+          "docs": []
+        },
+        {
+          "id": "0657db81-046f-4dae-92c7-e808eb49e10e",
+          "full_name": "Воронежский государственный университет",
+          "short_name": "ВГУ",
+          "org_name": null,
+          "inn": null,
+          "kpp": null,
+          "address": null,
+          "city": "Воронеж",
+          "phone": null,
+          "email": null,
+          "site": null,
+          "post_code": null,
+          "image": "https:\/\/facultetus.ru\/images\/universities\/4e2a019525a98b7e44971644c186fcba.png",
+          "has_contract": false,
+          "contract_number": null,
+          "contract_status": "none",
+          "contract_begin_date": null,
+          "contract_finish_date": null,
+          "contact_person": null,
+          "created_at": "2023-04-13T10:36:22.000000Z",
+          "docs": []
+        },
+        {
+          "id": "069e684e-30a4-4862-bc2c-0758736b2ec3",
+          "full_name": "Санкт-Петербургский государственный аграрный университет",
+          "short_name": "СПбГАУ",
+          "org_name": null,
+          "inn": null,
+          "kpp": null,
+          "address": null,
+          "city": "Санкт-Петербург",
+          "phone": null,
+          "email": null,
+          "site": null,
+          "post_code": null,
+          "image": "https:\/\/facultetus.ru\/images\/universities\/1b62a44570be5b066c151238a84facf3.png",
+          "has_contract": false,
+          "contract_number": null,
+          "contract_status": "none",
+          "contract_begin_date": null,
+          "contract_finish_date": null,
+          "contact_person": null,
+          "created_at": "2023-04-13T10:36:23.000000Z",
+          "docs": []
+        },
+        {
+          "id": "070fabdf-7cd9-4036-ab69-fe91bdf29f8b",
+          "full_name": "Московский государственный технический университет имени Н. Э. Баумана",
+          "short_name": "МГТУ им. Н. Э. Баумана",
+          "org_name": null,
+          "inn": null,
+          "kpp": null,
+          "address": null,
+          "city": "Москва",
+          "phone": null,
+          "email": null,
+          "site": null,
+          "post_code": null,
+          "image": "https:\/\/facultetus.ru\/images\/universities\/b7d50ade189063cdf104af957faf3d09.png",
+          "has_contract": false,
+          "contract_number": null,
+          "contract_status": "none",
+          "contract_begin_date": null,
+          "contract_finish_date": null,
+          "contact_person": null,
+          "created_at": "2023-04-13T10:36:22.000000Z",
+          "docs": []
+        },
+        {
+          "id": "07d3ad67-81d4-4262-afde-8a745ee3703a",
+          "full_name": "Тверской Государственный Университет",
+          "short_name": "ТвГУ",
+          "org_name": null,
+          "inn": null,
+          "kpp": null,
+          "address": null,
+          "city": "Тверь",
+          "phone": null,
+          "email": null,
+          "site": null,
+          "post_code": null,
+          "image": "https:\/\/facultetus.ru\/images\/universities\/bb1ece93944a0b09bf6178dad99af112.png",
+          "has_contract": false,
+          "contract_number": null,
+          "contract_status": "none",
+          "contract_begin_date": null,
+          "contract_finish_date": null,
+          "contact_person": null,
+          "created_at": "2023-04-13T10:36:24.000000Z",
+          "docs": []
+        },
+        {
+          "id": "093a6652-6342-47f1-af97-9eccc1389e99",
+          "full_name": "Челябинский государственный университет",
+          "short_name": "ЧелГУ",
+          "org_name": null,
+          "inn": null,
+          "kpp": null,
+          "address": null,
+          "city": "Челябинск",
+          "phone": null,
+          "email": null,
+          "site": null,
+          "post_code": null,
+          "image": "https:\/\/facultetus.ru\/images\/universities\/3b8d6a902ddced922824d373d9b94b43.png",
+          "has_contract": false,
+          "contract_number": null,
+          "contract_status": "none",
+          "contract_begin_date": null,
+          "contract_finish_date": null,
+          "contact_person": null,
+          "created_at": "2023-04-13T10:36:24.000000Z",
+          "docs": []
+        },
+        {
+          "id": "093b8449-4c94-4371-9e82-f8e9bd8db872",
+          "full_name": "Уфимский колледж радиоэлектроники, телекоммуникаций и безопасности",
+          "short_name": "УКРТБ",
+          "org_name": null,
+          "inn": null,
+          "kpp": null,
+          "address": null,
+          "city": "Уфа",
+          "phone": null,
+          "email": null,
+          "site": null,
+          "post_code": null,
+          "image": "https:\/\/facultetus.ru\/images\/universities\/ea072659ef3f26e2ade58db5c1d5a999.png",
+          "has_contract": false,
+          "contract_number": null,
+          "contract_status": "none",
+          "contract_begin_date": null,
+          "contract_finish_date": null,
+          "contact_person": null,
+          "created_at": "2023-04-13T10:36:24.000000Z",
+          "docs": []
+        },
+        {
+          "id": "0985528d-a149-4fa0-b615-93f11d64acb6",
+          "full_name": "Тестовый университет с длинным названием",
+          "short_name": "УУП ТУСДН",
+          "org_name": "",
+          "inn": "",
+          "kpp": "",
+          "address": "Екатеринбург, Ленина 11",
+          "city": "Екатеринбург",
+          "phone": "+7(987)-654-32-11",
+          "email": "mandrozz@yandex.ru",
+          "site": "https:\/\/site.ru",
+          "post_code": "620000",
+          "image": "\/backend-api\/storage\/avatars\/d1af1c21-0e5a-45e0-bdf0-d24930e9ff4a.png",
+          "has_contract": true,
+          "contract_number": "123456",
+          "contract_status": "none",
+          "contract_begin_date": null,
+          "contract_finish_date": null,
+          "contact_person": "Андрей Малыгин Игоревич",
+          "created_at": "2023-04-03T18:14:58.000000Z",
+          "docs": []
+        },
+        {
+          "id": "09cae5d2-b862-45f4-b89e-16d5fd6a23b8",
+          "full_name": "Новосибирский государственный университет архитектуры, дизайна и искусств",
+          "short_name": "НГУАДИ",
+          "org_name": null,
+          "inn": null,
+          "kpp": null,
+          "address": null,
+          "city": "Новосибирск",
+          "phone": null,
+          "email": null,
+          "site": null,
+          "post_code": null,
+          "image": "https:\/\/facultetus.ru\/images\/universities\/9864fdbc6ff659de8f5b323a4c780d4b.png",
+          "has_contract": false,
+          "contract_number": null,
+          "contract_status": "none",
+          "contract_begin_date": null,
+          "contract_finish_date": null,
+          "contact_person": null,
+          "created_at": "2023-04-13T10:36:23.000000Z",
+          "docs": []
+        },
+        {
+          "id": "09fa20a7-6fc0-43ad-b37a-0172afbb90fe",
+          "full_name": "Иркутский государственный университет путей сообщения",
+          "short_name": "ИрГУПС",
+          "org_name": null,
+          "inn": null,
+          "kpp": null,
+          "address": null,
+          "city": "Иркутск",
+          "phone": null,
+          "email": null,
+          "site": null,
+          "post_code": null,
+          "image": "https:\/\/facultetus.ru\/images\/universities\/bb306beff187188d603b7c7b7e59baf7.png",
+          "has_contract": false,
+          "contract_number": null,
+          "contract_status": "none",
+          "contract_begin_date": null,
+          "contract_finish_date": null,
+          "contact_person": null,
+          "created_at": "2023-04-13T10:36:22.000000Z",
+          "docs": []
+        },
+        {
+          "id": "0a262287-f797-426c-937c-8e5337eb0c34",
+          "full_name": "Брянский государственный технический университет",
+          "short_name": "БГТУ",
+          "org_name": null,
+          "inn": null,
+          "kpp": null,
+          "address": null,
+          "city": "Брянск",
+          "phone": null,
+          "email": null,
+          "site": null,
+          "post_code": null,
+          "image": "https:\/\/facultetus.ru\/images\/universities\/31cbecbad6ef21db4a935f6f8d050902.png",
+          "has_contract": false,
+          "contract_number": null,
+          "contract_status": "none",
+          "contract_begin_date": null,
+          "contract_finish_date": null,
+          "contact_person": null,
+          "created_at": "2023-04-13T10:36:21.000000Z",
+          "docs": []
+        },
+        {
+          "id": "0a90bd89-0f88-47f6-aa2f-2ba50620b1e1",
+          "full_name": "Университетский колледж информационных технологий МГУТУ",
+          "short_name": "Колледж информационных технологий при МГУТУ",
+          "org_name": null,
+          "inn": null,
+          "kpp": null,
+          "address": null,
+          "city": "Москва",
+          "phone": null,
+          "email": null,
+          "site": null,
+          "post_code": null,
+          "image": "https:\/\/facultetus.ru\/images\/universities\/89f596f68ad2f481405cd1bc0f6a1fa3.png",
+          "has_contract": false,
+          "contract_number": null,
+          "contract_status": "none",
+          "contract_begin_date": null,
+          "contract_finish_date": null,
+          "contact_person": null,
+          "created_at": "2023-04-13T10:36:24.000000Z",
+          "docs": []
+        }
+      ]
+    },
+    "links": {
+      "first": "http:\/\/127.0.0.1:5251\/api\/v1\/universities?page=1",
+      "last": "http:\/\/127.0.0.1:5251\/api\/v1\/universities?page=20",
+      "prev": null,
+      "next": "http:\/\/127.0.0.1:5251\/api\/v1\/universities?page=2"
+    },
+    "meta": {
+      "current_page": 1,
+      "from": 1,
+      "last_page": 20,
+      "links": [
+        {
+          "url": null,
+          "label": "&laquo; Previous",
+          "active": false
+        },
+        {
+          "url": "http:\/\/127.0.0.1:5251\/api\/v1\/universities?page=1",
+          "label": "1",
+          "active": true
+        },
+        {
+          "url": "http:\/\/127.0.0.1:5251\/api\/v1\/universities?page=2",
+          "label": "2",
+          "active": false
+        },
+        {
+          "url": "http:\/\/127.0.0.1:5251\/api\/v1\/universities?page=3",
+          "label": "3",
+          "active": false
+        },
+        {
+          "url": "http:\/\/127.0.0.1:5251\/api\/v1\/universities?page=4",
+          "label": "4",
+          "active": false
+        },
+        {
+          "url": "http:\/\/127.0.0.1:5251\/api\/v1\/universities?page=5",
+          "label": "5",
+          "active": false
+        },
+        {
+          "url": "http:\/\/127.0.0.1:5251\/api\/v1\/universities?page=6",
+          "label": "6",
+          "active": false
+        },
+        {
+          "url": "http:\/\/127.0.0.1:5251\/api\/v1\/universities?page=7",
+          "label": "7",
+          "active": false
+        },
+        {
+          "url": "http:\/\/127.0.0.1:5251\/api\/v1\/universities?page=8",
+          "label": "8",
+          "active": false
+        },
+        {
+          "url": "http:\/\/127.0.0.1:5251\/api\/v1\/universities?page=9",
+          "label": "9",
+          "active": false
+        },
+        {
+          "url": "http:\/\/127.0.0.1:5251\/api\/v1\/universities?page=10",
+          "label": "10",
+          "active": false
+        },
+        {
+          "url": null,
+          "label": "...",
+          "active": false
+        },
+        {
+          "url": "http:\/\/127.0.0.1:5251\/api\/v1\/universities?page=19",
+          "label": "19",
+          "active": false
+        },
+        {
+          "url": "http:\/\/127.0.0.1:5251\/api\/v1\/universities?page=20",
+          "label": "20",
+          "active": false
+        },
+        {
+          "url": "http:\/\/127.0.0.1:5251\/api\/v1\/universities?page=2",
+          "label": "Next &raquo;",
+          "active": false
+        }
+      ],
+      "path": "http:\/\/127.0.0.1:5251\/api\/v1\/universities",
+      "per_page": 20,
+      "to": 20,
+      "total": 393
+    },
+    "success": true
+  },
+  "users": {
+    "success": true,
+    "data": [
+      {
+        "id": 1,
+        "first_name": "Владимир",
+        "last_name": "Васильев",
+        "middle_name": "Николаевич",
+        "photo": "img/rector.png",
+        "email": "ako@itmo.ru",
+        "phone": "+7(812)480-80-01"
+      },
+      {
+        "id": 2,
+        "first_name": "Алексей",
+        "last_name": "Белоусов",
+        "middle_name": "Николаевич",
+        "photo": "img/userpic.png",
+        "email": "alexey.beleg@gmail.com",
+        "phone": "+7(932)999-0185"
+      }
+    ],
+    "errors": null
+  },
+  "vacancies": {
+    "data": [
+      {
+        "uuid": "7159165219328311534",
+        "title": "Специалист по работе с кредитной задолженностью",
+        "description": "Хочешь начать карьеру в банке, но нет опыта? Стартуй с простых задач!",
+        "salary": "",
+        "category": {
+          "id": 3,
+          "title": "bez-opyta",
+          "description": "Быстрый старт"
+        },
+        "direction": {
+          "id": 51,
+          "title": "Быстрый старт"
+        },
+        "experience": {
+          "id": 8,
+          "title": "быстрый старт"
+        },
+        "location": {
+          "id": 1014,
+          "title": "Уфа"
+        },
+        "responsibilities": "консультирование клиентов банка по телефону, имеющих просроченную задолженность на ранних этапах\r\nконтроль сроков погашения задолженности в соответствии с действующими договоренностями\r\nприем входящих звонков по вопросам возникновения просроченной задолженности",
+        "offers": "официальное трудоустройство по ТК РФ (полный соц. пакет, ДМС)\r\nстабильная заработная плата + премия\r\nграфик работы 5\/2 , сменный (смены 8:00-17:00, 9:00-18:00, 12:00-21:00, 13:00-22:00 в вечернее время корпоративное такси)\r\nвозможен удаленный\/гибридный формат работы, в т.ч. для вечерних смен, для сотрудников, которые успешно прошли обучение и освоили функционал\r\nперспектива карьерного роста в крупном банке\r\nлучшие программы обучения и возможности для развития\r\nработа в дружной команде профессионалов",
+        "skills": "рассматриваем кандидатов без опыта работы, есть обучение\r\nнавыки общения с людьми, грамотная речь\r\nнацеленность на результат, умение работать в команде\r\nсреднее профессиональное образование",
+        "manager_name": "Нигматуллина Гульнара Винировна",
+        "manager_phone": "8-9174163917",
+        "manager_email": "NigmatulliGV@ufa.bank.ru",
+        "invite_friend": true,
+        "fee": 5000,
+        "address": "",
+        "created_at": "2022-10-27T12:22:02.000000Z",
+        "type": "trainee",
+        "link": "https:\/\/team.bank.ru\/details\/bez-opyta\/7159165219328311534"
+      },
+      {
+        "uuid": "7187434867352012846",
+        "title": "Ведущий специалист по обслуживанию юридических лиц",
+        "description": "Группа дистанционного обслуживания юридических лиц",
+        "salary": "",
+        "category": {
+          "id": 3,
+          "title": "bez-opyta",
+          "description": "Быстрый старт"
+        },
+        "direction": {
+          "id": 51,
+          "title": "Быстрый старт"
+        },
+        "experience": {
+          "id": 8,
+          "title": "быстрый старт"
+        },
+        "location": {
+          "id": 1014,
+          "title": "Уфа"
+        },
+        "responsibilities": "работать с входящими звонками и обращениями от юридических лиц\r\nконсультировать действующих и потенциальных клиентов банка по продуктам и услугам для юридических лиц\r\nпродавать продукты и услуги банка\r\nоформлять заявки и подключать услуги\r\nсопровождать клиентов в системах дистанционного банковского обслуживания",
+        "offers": "белую зарплату, которая будет вовремя приходить на карту два раза в месяц\r\nоклад + процент от выполненных KPI\r\nсовременный офис в центре Уфы\r\nполный рабочий день с гибким графиком его начала\r\nотсутствие выездов и очных встреч с клиентами: все общение происходит по телефону и через чаты\/мессенджеры\r\nофициальное оформление по ТК РФ\r\nежегодный отпуск, больничный, льготное ДМС и кредитование\r\n3 дополнительных дня к отпуску - их ты можешь использовать на свое усмотрение\r\nдвухнедельное оплачиваемое обучение, которое поможет тебе комфортно приступить к работе\r\nсопровождение наставника в период после обучения\r\nмолодой и дружный коллектив\r\nздоровую корпоративную среду, которая действительно помогает расти и развиваться",
+        "skills": "имеешь среднее специальное образование (высшее или неоконченное высшее будет плюсом)\r\nлюбишь общаться с людьми и искренне хочешь им помочь\r\nготов много разговаривать с клиентами по телефону\r\nзнаешь, что такое ответственность и сроки выполнения задач\r\nхочешь учиться новому и непрерывно развиваться\r\nне бойся откликаться, если у тебя нет экономического или финансового образования \r\nМы всему тебя научим и будем поддержкой! \r\nЕсли ты учишься на последних курсах университета, то мы предоставим учебный отпуск на сессию",
+        "manager_name": "Нигматуллина Гульнара Винировна",
+        "manager_phone": "8-9174163917",
+        "manager_email": "NigmatulliGV@ufa.bank.ru",
+        "invite_friend": true,
+        "fee": 5000,
+        "address": "",
+        "created_at": "2023-01-11T16:50:02.000000Z",
+        "type": "trainee",
+        "link": "https:\/\/team.bank.ru\/details\/bez-opyta\/7187434867352012846"
+      },
+      {
+        "uuid": "7187586174385150538",
+        "title": "Специалист по работе с клиентами ( Входящая линия)",
+        "description": "Дирекция дистанционного обслуживания",
+        "salary": "",
+        "category": {
+          "id": 3,
+          "title": "bez-opyta",
+          "description": "Быстрый старт"
+        },
+        "direction": {
+          "id": 51,
+          "title": "Быстрый старт"
+        },
+        "experience": {
+          "id": 8,
+          "title": "быстрый старт"
+        },
+        "location": {
+          "id": 953,
+          "title": "Тверь"
+        },
+        "responsibilities": "принимать звонки и консультировать потенциальных клиентов банка\r\nпомогать действующим клиентам в выборе наиболее выгодных продуктов и предложений банка\r\nпредлагать к оформлению наши продукты и услуги\r\nучаствовать в развитии и улучшении процессов работы нашего центра\r\n",
+        "offers": "официальное трудоустройство по ТК РФ уже на этапе обучения\r\nдостойный уровень з\/п, состоящий из окладной и премиальной части\r\nвозможность быстрого карьерного роста (возможно повышение оклада уже после 6 месяцев успешной работы)\r\nсменный график работы на выбор - 2\/2, 5\/2 \r\nвозможность работы в ночном графике\r\nвозможность полной или частичной занятости (0,5 ставки)\r\nвозможность дополнительного заработка при сверхурочной работе и работе в выходные (только по твоему желанию)\r\nсоциальный пакет: ежегодный оплачиваемый отпуск 31 день; льготная программа ДМС; льготные программы банка: кредитные карты, кредитование и другие банковские продукты\r\nвозможность удаленного формата работы\r\nрегулярное участие в тренингах и развивающих семинарах от коллектива лучших тренеров со всей России\r\nпомощь опытных коллег на первых этапах работы\r\nучастие в различных конкурсах и викторинах внутри банка. \r\nотсутствие строгого дресс-кода\r\nдвойной размер оплаты смены в праздничные дни\r\nоплата такси за счет банка, если смена заканчивается поздно\r\nличное рабочее место в современном офисе, расположенном в центре города",
+        "skills": "желание расти в банковской сфере и иметь достойный доход\r\nстремление общаться с людьми и искренне хочешь им помочь\r\nстремление к развитию и готовности учиться новому",
+        "manager_name": "Акбердина Вероника Венеровна",
+        "manager_phone": "",
+        "manager_email": "AkberdinaVV@ufa.bank.ru",
+        "invite_friend": true,
+        "fee": 5000,
+        "address": "",
+        "created_at": "2023-01-12T02:31:01.000000Z",
+        "type": "trainee",
+        "link": "https:\/\/team.bank.ru\/details\/bez-opyta\/7187586174385150538"
+      },
+      {
+        "uuid": "7187587806907165929",
+        "title": "Специалист по работе с клиентами ( Входящая линия)",
+        "description": "Дирекция дистанционного обслуживания",
+        "salary": "",
+        "category": {
+          "id": 3,
+          "title": "bez-opyta",
+          "description": "Быстрый старт"
+        },
+        "direction": {
+          "id": 51,
+          "title": "Быстрый старт"
+        },
+        "experience": {
+          "id": 8,
+          "title": "быстрый старт"
+        },
+        "location": {
+          "id": 1014,
+          "title": "Уфа"
+        },
+        "responsibilities": "принимать звонки и консультировать потенциальных клиентов банка\r\nпомогать действующим клиентам в выборе наиболее выгодных продуктов и предложений банка\r\nпредлагать к оформлению наши продукты и услуги\r\nучаствовать в развитии и улучшении процессов работы нашего центра\r\n",
+        "offers": "официальное трудоустройство по ТК РФ уже на этапе обучения\r\nдостойный уровень з\/п, состоящий из окладной и премиальной части\r\nвозможность быстрого карьерного роста (возможно повышение оклада уже после 6 месяцев успешной работы)\r\nсменный график работы на выбор - 2\/2, 5\/2 \r\nвозможность работы в ночном графике\r\nвозможность полной или частичной занятости (0,5 ставки)\r\nвозможность дополнительного заработка при сверхурочной работе и работе в выходные (только по твоему желанию)\r\nсоциальный пакет: ежегодный оплачиваемый отпуск 31 день; льготная программа ДМС; льготные программы банка: кредитные карты, кредитование и другие банковские продукты\r\nвозможность удаленного формата работы\r\nрегулярное участие в тренингах и развивающих семинарах от коллектива лучших тренеров со всей России\r\nпомощь опытных коллег на первых этапах работы\r\nучастие в различных конкурсах и викторинах внутри банка\r\nотсутствие строгого дресс-кода\r\nдвойной размер оплаты смены в праздничные дни\r\nоплата такси за счет банка, если смена заканчивается поздно\r\nличное рабочее место в современном офисе, расположенном в центре города",
+        "skills": "желание расти в банковской сфере и иметь достойный доход\r\nстремление общаться с людьми и искренне хочешь им помочь\r\nстремление к развитию и готовности учиться новому\r\n\r\n",
+        "manager_name": "Акбердина Вероника Венеровна",
+        "manager_phone": "",
+        "manager_email": "AkberdinaVV@ufa.bank.ru",
+        "invite_friend": true,
+        "fee": 5000,
+        "address": "",
+        "created_at": "2023-01-12T02:45:02.000000Z",
+        "type": "trainee",
+        "link": "https:\/\/team.bank.ru\/details\/bez-opyta\/7187587806907165929"
+      },
+      {
+        "uuid": "7187616187629638606",
+        "title": "Специалист по работе с клиентами",
+        "description": "Продажи банковских продуктов клиентам по телефону",
+        "salary": "",
+        "category": {
+          "id": 3,
+          "title": "bez-opyta",
+          "description": "Быстрый старт"
+        },
+        "direction": {
+          "id": 51,
+          "title": "Быстрый старт"
+        },
+        "experience": {
+          "id": 8,
+          "title": "быстрый старт"
+        },
+        "location": {
+          "id": 1014,
+          "title": "Уфа"
+        },
+        "responsibilities": "совершать звонки действующим клиентам банка и информировать о специальных предложениях\r\nпомогать клиентам в выборе наиболее выгодных продуктов и предложений банка\r\n",
+        "offers": "гибкий график работы – 5\/2, 2\/2, возможны плавающие выходные и начало работы в разные смены \r\nвозможность гибридного и удаленного формата работы\r\nотсутствие выездов и личных встреч с клиентами\r\nработу в центре города рядом с АРТ- Квадратом\r\nвозможность роста в профессиональном и личном плане за счет банка, быстрый карьерный рост (Всё зависит от тебя!) \r\nяркую корпоративную жизнь, конкурсы внутри команды и по банку\r\nоклад + неограниченная премия за продажу банковских продуктов\r\nвозможность получения дохода за продажи уже с первых звонков (даём время на адаптацию) \r\nи конечно же официальное оформление согласно ТК РФ с первого дня обучения\r\nсоциальный пакет (ежегодный отпуск, больничный лист, ДМС, льготное кредитование, дополнительные 3 дня отдыха в течение года, социальные выплаты)\r\n",
+        "skills": "уверенный пользователь ПК\r\nобладаете хорошей дикцией и грамотной речью\r\n\r\n",
+        "manager_name": "Голощапова Алина Сергеевна",
+        "manager_phone": "+7(951)4560026",
+        "manager_email": "GoloschapoAS@ufa.bank.ru",
+        "invite_friend": true,
+        "fee": 5000,
+        "address": "",
+        "created_at": "2023-01-12T04:43:01.000000Z",
+        "type": "vacancy",
+        "link": "https:\/\/team.bank.ru\/details\/bez-opyta\/7187616187629638606"
+      },
+      {
+        "uuid": "7188026309522312459",
+        "title": "Специалист по обслуживанию клиентов в чате",
+        "description": "Решать вопросы клиентов в чатах и письмах",
+        "salary": "",
+        "category": {
+          "id": 3,
+          "title": "bez-opyta",
+          "description": "Быстрый старт"
+        },
+        "direction": {
+          "id": 51,
+          "title": "Быстрый старт"
+        },
+        "experience": {
+          "id": 8,
+          "title": "быстрый старт"
+        },
+        "location": {
+          "id": 1014,
+          "title": "Уфа"
+        },
+        "responsibilities": "консультировать потенциальных и действующих клиентов банка по продуктам и услугам для физических лиц в чатах и письмах\r\nдавать рекомендации, как оформлять заявки и подключать услуги\r\nсопровождать клиентов в системах дистанционного банковского обслуживания",
+        "offers": "белую зарплату, которая будет вовремя приходить на карту два раза в месяц\r\nоклад от 28 000 руб.+ ежемесячная премия за выполнение KPI\r\nсовременный офис в центре Уфы\r\nгибкий график работы – 5\/2 и 2\/2 (готовы обсуждать)\r\nофициальное оформление по ТК РФ\r\nежегодный отпуск, больничный, льготное ДМС и кредитование\r\n3 дополнительных дня к отпуску - их ты можешь использовать на свое усмотрение\r\nтрехнедельное оплачиваемое обучение, которое поможет тебе комфортно приступить к работе\r\nсопровождение наставника в период после обучения\r\nмолодой и дружный коллектив\r\nздоровую корпоративную среду, которая действительно помогает расти и развиваться",
+        "skills": "имеешь среднее специальное образование (высшее или неоконченное высшее будет плюсом)\r\nлюбишь общаться с людьми и искренне хочешь им помочь\r\nпишешь грамотно, быстро печатаешь (скорость печати не менее 120 знаков в минуту)\r\nуверенно пользуешься компьютером и быстро осваиваешь новые программы\r\nзнаешь, что такое ответственность и сроки выполнения задач\r\nхочешь учиться новому и непрерывно развиваться",
+        "manager_name": "Акбердина Вероника Венеровна",
+        "manager_phone": "",
+        "manager_email": "AkberdinaVV@ufa.bank.ru",
+        "invite_friend": false,
+        "fee": 0,
+        "address": "Уфа, Крупской ул., д.9",
+        "created_at": "2023-01-13T11:29:02.000000Z",
+        "type": "practice",
+        "link": "https:\/\/team.bank.ru\/details\/bez-opyta\/7188026309522312459"
+      },
+      {
+        "uuid": "7206174001313695169",
+        "title": "Ведущий менеджер группы автокредитования",
+        "description": "Заключение сделок на автокредитование, консультирование клиентов, продажи кросс-продуктов.",
+        "salary": "",
+        "category": {
+          "id": 3,
+          "title": "bez-opyta",
+          "description": "Быстрый старт"
+        },
+        "direction": {
+          "id": 51,
+          "title": "Быстрый старт"
+        },
+        "experience": {
+          "id": 8,
+          "title": "быстрый старт"
+        },
+        "location": {
+          "id": 674,
+          "title": "Новосибирск"
+        },
+        "responsibilities": "консультировать клиентов и принимать заявки по кредитным продуктами линейки \"Автокредитование\"\r\nпроводить сделки по автокредитованию, в т.ч. выездные\r\nпродавать и оформлять сервисные продукты клиентам\r\nвыдавать пластиковые карты клиентам (в качестве инструмента для погашения кредита)\r\nработать с клиентской базой, информировать клиентов о положительном решении по кредиту\r\nсопровождать выданные автокредиты\r\nобщаться с партнерами банка",
+        "offers": "официальное трудоустройство по ТК РФ\r\nгибкий график работы (5\/2 и 2\/2)\r\nежемесячные премии за успехи в работе\r\nобучающий курс и поддержка наставника\r\nсвоевременное начисление зарплаты два раза в месяц\r\nДМС, привилегии от банка и бонусы от партнёров\r\nздоровая корпоративная среда, которая помогает расти и развиваться",
+        "skills": "вы завершили техникум, колледж или университет (неполное высшее тоже подойдёт)\r\nзнаете техники продаж, умеете убеждать\r\nработали в банке как минимум год или имеете опыт продаж\r\nлюбите и не боитесь общаться с разными людьми\r\nграмотно разговариваете и пишете\r\nготовы к разъездному характеру работы",
+        "manager_name": "Гончарук Ксения Андреевна",
+        "manager_phone": "89654708220",
+        "manager_email": "GoncharukKA@bank.ru",
+        "invite_friend": true,
+        "fee": 5000,
+        "address": "Новосибирск, Красный проспект, д. 184\/1",
+        "created_at": "2023-03-31T06:49:02.000000Z",
+        "type": "vacancy",
+        "link": "https:\/\/team.bank.ru\/details\/bez-opyta\/7206174001313695169"
+      },
+      {
+        "uuid": "7234137804429948218",
+        "title": "Клиентский менеджер по обслуживанию физических лиц",
+        "description": "Осуществление операционного и сервисного обслуживания физических лиц.\r\n\r\n",
+        "salary": "",
+        "category": {
+          "id": 3,
+          "title": "bez-opyta",
+          "description": "Быстрый старт"
+        },
+        "direction": {
+          "id": 51,
+          "title": "Быстрый старт"
+        },
+        "experience": {
+          "id": 8,
+          "title": "быстрый старт"
+        },
+        "location": {
+          "id": 354,
+          "title": "Казань"
+        },
+        "responsibilities": "Осуществлять операционное или сервисное обслуживание физических лиц;\r\nПродавать клиентам (физлицам) кредитные продукты;\r\nСледить за качеством клиентского сервиса;\r\nИнформировать текущих клиентов о возможности приобрести дополнительные продукты;\r\nИскать и привлекать новых клиентов, которые захотят приобрести продукты банка, а также небанковские кросс-продукты.",
+        "offers": "Официальное трудоустройство согласно ТК РФ с первого рабочего дня;\r\nДостойная заработная плата без верхнего предела;\r\nПлавающий график 5\/2 с 9 до 19 часов, две рабочие субботы в месяце с сокращённым графиком с 10 до 16 часов;\r\nРасширенный соцпакет с ДМС, льготами от банка и скидками от компаний-партнёров;\r\nВозможности для роста: к примеру, вы можете стать менеджером по работе с ключевыми клиентами;\r\nКомфортная атмосфера, дружный коллектив и разнообразные задачи.",
+        "skills": "Вы завершили техникум, колледж или университет (неполное высшее тоже подойдёт);\r\nИмеете опыт продаж в банковской сфере (желательно);\r\nЗнаете линейку банковских продуктов;\r\nГотовы работать с «холодной» базой;\r\nКоммуникабельны, ориентированы на интересы клиента;\r\nСтрессоустойчивы и умеете работать в команде.",
+        "manager_name": "Донскова Анастасия Александровна",
+        "manager_phone": "",
+        "manager_email": "DonskovaAA@smr.bank.ru",
+        "invite_friend": true,
+        "fee": 7000,
+        "address": "",
+        "created_at": "2023-05-17T13:42:02.000000Z",
+        "type": "trainee",
+        "link": "https:\/\/team.bank.ru\/details\/bez-opyta\/7234137804429948218"
+      },
+      {
+        "uuid": "7234830513777164330",
+        "title": "Старший специалист Дирекции андеррайтинга кредитных сделок",
+        "description": "Проведение андеррайтинга и принятие решения о возможности предоставления кредитных продуктов",
+        "salary": "",
+        "category": {
+          "id": 3,
+          "title": "bez-opyta",
+          "description": "Быстрый старт"
+        },
+        "direction": {
+          "id": 51,
+          "title": "Быстрый старт"
+        },
+        "experience": {
+          "id": 8,
+          "title": "быстрый старт"
+        },
+        "location": {
+          "id": 1014,
+          "title": "Уфа"
+        },
+        "responsibilities": "проводить андеррайтинг и принимать решения о возможности предоставления кредитных продуктов «Банковская экспресс-гарантия», «Банковская экспресс-гарантия со страхованием» для Целевого клиентского сегмента «Малый бизнес» в рамках утвержденных полномочий",
+        "offers": "официальное трудоустройство по ТК РФ\r\n5\/2, сб и вс - выходные, сменный режим работы, график утверждается на 1 месяц (с 9:00 до 18:00, с 10:00 до 19:00, с 11: 00 до 20:00, с 12:00 до 21:00), обеденный перерыв - 1 час\r\nстабильная белая зарплата два раза в месяц\r\nполный соцпакет: ДМС с первого месяца, льготы от банка, скидки от партнёров\r\nподдержка в построении и развитии карьеры\r\nпо результатам работы за квартал может выплачиваться квартальная премия",
+        "skills": "образование по специальности \"Экономика \/ менеджмент \/ финансы и кредит \/ юриспруденция\r\nнавыки работы в сети Internet\r\nвладение ПК на уровне уверенного пользователя\r\nMS Office (Word, Excel базовый уровень)\r\nприветствуется опыт работы в банковской сфере",
+        "manager_name": "Акбердина Вероника Венеровна",
+        "manager_phone": "",
+        "manager_email": "AkberdinaVV@ufa.bank.ru",
+        "invite_friend": false,
+        "fee": 0,
+        "address": "Уфа, ул. Крупской, д. 9",
+        "created_at": "2023-05-22T08:40:02.000000Z",
+        "type": "trainee",
+        "link": "https:\/\/team.bank.ru\/details\/bez-opyta\/7234830513777164330"
+      },
+      {
+        "uuid": "7234831179592699274",
+        "title": "Специалист Дирекции андеррайтинга кредитных сделок",
+        "description": "Проведение андеррайтинга и принятие решения о возможности предоставления кредитных продуктов",
+        "salary": "",
+        "category": {
+          "id": 3,
+          "title": "bez-opyta",
+          "description": "Быстрый старт"
+        },
+        "direction": {
+          "id": 51,
+          "title": "Быстрый старт"
+        },
+        "experience": {
+          "id": 8,
+          "title": "быстрый старт"
+        },
+        "location": {
+          "id": 1014,
+          "title": "Уфа"
+        },
+        "responsibilities": "проводить необходимые проверки по кредитным заявкам в автоматизированном процессе в случае их назначения Системой учета кредитных заявок, в том числе: проверка организации-работодателя; телефонная верификация; уточнение дохода Клиента; проверка документов на наличие в них признаков подложности\r\nпринимать решения о возможности выдачи кредита",
+        "offers": "официальное трудоустройства с первого дня работы\r\nсвоевременные выплаты заработной платы, два раза в месяц\r\nстабильные премии по итогам работы\r\nграфик работы 5*2 (выходные плавающие), возможные смены: с 8.00 до 17.00, с 9.00 до 18.00, с 10.00 до 19.00, с 11.00 до 20.00, с 12.00 до 21.00, с 13.00 до 22.00 (смена устанавливается на неделю), обеденный перерыв - 1 час\r\nвозможность расти и развиваться в одном из самых крупных Банков России\r\nперспективы карьерного роста как внутри подразделения, так и в смежных\r\nдоступную и понятную систему обучения (личный \"наставник\"), позволяющую постоянно улучшать свой профессиональный уровень\r\nразвитую систему нематериальной мотивации сотрудников (Лаборатория идей, поощрение лидеров рейтингования, книжный клуб, онлайн курсы йоги и т.п.)\r\nкомфортный оборудованный офис в центре города (наличие своих раздевалок, комнат для приема пищи, просторные кабинеты и пр.)\r\nдружный коллектив\r\nразличные льготы от партнеров банка",
+        "skills": "получили среднее\/ высшее образование по специальности \"Экономика\", \"Менеджмент\", \"Финансы и кредит\", \"Юриспруденция\"\r\nрассматриваем кандидатов без опыта работы\r\nуверенно работаете на компьютере",
+        "manager_name": "Акбердина Вероника Венеровна",
+        "manager_phone": "",
+        "manager_email": "AkberdinaVV@ufa.bank.ru",
+        "invite_friend": false,
+        "fee": 0,
+        "address": "Уфа, ул. Крупской, д. 9",
+        "created_at": "2023-05-22T10:24:02.000000Z",
+        "type": "trainee",
+        "link": "https:\/\/team.bank.ru\/details\/bez-opyta\/7234831179592699274"
+      },
+      {
+        "uuid": "7231937019156113088",
+        "title": "Старший юрисконсульт",
+        "description": "Обеспечение своевременной отправки пакетов документов в суд",
+        "salary": "",
+        "category": {
+          "id": 3,
+          "title": "bez-opyta",
+          "description": "Быстрый старт"
+        },
+        "direction": {
+          "id": 51,
+          "title": "Быстрый старт"
+        },
+        "experience": {
+          "id": 8,
+          "title": "быстрый старт"
+        },
+        "location": {
+          "id": 1014,
+          "title": "Уфа"
+        },
+        "responsibilities": "выполнять распечатку, заверение и отправку документов в суды",
+        "offers": "официальное трудоустройство с первого дня работы\r\nстабильная белая зарплата два раза в месяц\r\nполный соцпакет: ДМС с первого месяца работы, льготы от банка\r\nграфик работы 5\/2 с 9 до 18 часов\r\nкоманда профессионалов, готовых всегда прийти на помощь\r\nработа в одном из крупнейших банков страны",
+        "skills": "вы получили высшее \/ среднее профессиональное образование\r\nготовы работать с документами\r\nмы готовы рассматривать кандидатов без опыта работы",
+        "manager_name": "Акбердина Вероника Венеровна",
+        "manager_phone": "",
+        "manager_email": "AkberdinaVV@ufa.bank.ru",
+        "invite_friend": false,
+        "fee": 0,
+        "address": "Уфа, ул. Крупской, д. 9",
+        "created_at": "2023-05-23T04:17:02.000000Z",
+        "type": "vacancy",
+        "link": "https:\/\/team.bank.ru\/details\/bez-opyta\/7231937019156113088"
+      },
+      {
+        "uuid": "7236117074875269710",
+        "title": "Стажер - клиентский менеджер по работе с розничным бизнесом",
+        "description": "Стажировка с возможностью дальнейшего трудоустройства в банковской сфере.\r\nСроки стажировки: июль-сентябрь 2023",
+        "salary": "",
+        "category": {
+          "id": 3,
+          "title": "bez-opyta",
+          "description": "Быстрый старт"
+        },
+        "direction": {
+          "id": 51,
+          "title": "Быстрый старт"
+        },
+        "experience": {
+          "id": 8,
+          "title": "быстрый старт"
+        },
+        "location": {
+          "id": 606,
+          "title": "Москва"
+        },
+        "responsibilities": "выявление потребностей клиента\r\nконсультация по работе терминала\r\nактивация банковских карт\r\nпродажа дополнителньых банковских продуктов",
+        "offers": "официальное трудоустройство по ТК РФ \r\nперспективу перхода в штат и карьерного роста в крупном банке\r\nлучшие программы обучения и возможности для развития\r\nработу в дружной команде профессионалов\r\nсопровождение наставника в период стажировки\r\nработа в офисе",
+        "skills": "выпускной курс колледжа, техникума или университета направления экономика\r\nразвитые навыки общения с людьми, грамотная речь\r\nнацеленность на результат\r\nумение работать в команде\r\nответственность, исполнительность, активность\r\nжелание развиваться в продажах",
+        "manager_name": "Наследникова Анастасия Андреевна",
+        "manager_phone": "",
+        "manager_email": "NaslednikoAA@bank.ru",
+        "invite_friend": false,
+        "fee": 0,
+        "address": "",
+        "created_at": "2023-05-23T09:41:02.000000Z",
+        "type": "vacancy",
+        "link": "https:\/\/team.bank.ru\/details\/bez-opyta\/7236117074875269710"
+      },
+      {
+        "uuid": "7236094474754469596",
+        "title": "Стажер - специалист по работе с банковскими картами",
+        "description": "Стажировка с возможностью дальнейшего трудоустройства в банковской сфере.\r\nСроки стажировки: июнь-сентябрь 2023",
+        "salary": "",
+        "category": {
+          "id": 3,
+          "title": "bez-opyta",
+          "description": "Быстрый старт"
+        },
+        "direction": {
+          "id": 51,
+          "title": "Быстрый старт"
+        },
+        "experience": {
+          "id": 8,
+          "title": "быстрый старт"
+        },
+        "location": {
+          "id": 467,
+          "title": "Краснодар"
+        },
+        "responsibilities": "Сопровождение процесса выдачи карт и ПИН-конвертов:\r\nинформирование организации по готовности карт\r\nподготовка и формирование актов приема-передачи для получения из хранилища Банка и выдачи в организации\r\nсортировка и раскладка карт и ПИН-конвертов по каждому ФЛ\r\nкорректировка данных в ПК, формирование досье, передача в ТП\r\nперевод бумажного архива досье в электронный",
+        "offers": "официальное трудоустройство по ТК РФ\r\nперспективу перхода в штат и карьерного роста в крупном банке\r\nлучшие программы обучения и возможности для развития\r\nработу в дружной команде профессионалов\r\nсопровождение наставника в период стажировки\r\nработа в офисе",
+        "skills": "выпускной курс колледжа, техникума или университета\r\nнавыки работы с документами\r\nразвитые навыки общения с людьми, грамотная речь\r\nнацеленность на результат\r\nответственность, исполнительность, аккуратность\r\nвладение ПК на уровне уверенного пользователя",
+        "manager_name": "Наследникова Анастасия Андреевна",
+        "manager_phone": "",
+        "manager_email": "NaslednikoAA@bank.ru",
+        "invite_friend": false,
+        "fee": 0,
+        "address": "",
+        "created_at": "2023-05-23T09:56:02.000000Z",
+        "type": "vacancy",
+        "link": "https:\/\/team.bank.ru\/details\/bez-opyta\/7236094474754469596"
+      },
+      {
+        "uuid": "7236096949536754199",
+        "title": "Стажер - сотрудник миддл-офиса",
+        "description": "Стажировка с возможностью дальнейшего трудоустройства в банковской сфере.\r\nСроки стажировки: июнь-сентябрь 2023",
+        "salary": "",
+        "category": {
+          "id": 3,
+          "title": "bez-opyta",
+          "description": "Быстрый старт"
+        },
+        "direction": {
+          "id": 51,
+          "title": "Быстрый старт"
+        },
+        "experience": {
+          "id": 8,
+          "title": "быстрый старт"
+        },
+        "location": {
+          "id": 467,
+          "title": "Краснодар"
+        },
+        "responsibilities": "сортировка поступающей корреспонденции\r\nпроведение проверки полноты и правильности заполнения документов\r\nзаведение информации в системы внутреннего учета\r\nсшивание и брошюровка\/переплет документов\r\nсканирование, уничтожение документов",
+        "offers": "официальное трудоустройство по ТК РФ \r\nперспективу перхода в штат и карьерного роста в крупном банке\r\nлучшие программы обучения и возможности для развития\r\nработу в дружной команде профессионалов\r\nсопровождение наставника в период стажировки\r\nработа в офисе",
+        "skills": "выпускной курс колледжа, техникума или университета\r\nнавыки работы с документами\r\nразвитые навыки общения с людьми, грамотная речь\r\nнацеленность на результат\r\nответственность, исполнительность, аккуратность\r\nвладение ПК на уровне уверенного пользователя",
+        "manager_name": "Наследникова Анастасия Андреевна",
+        "manager_phone": "",
+        "manager_email": "NaslednikoAA@bank.ru",
+        "invite_friend": false,
+        "fee": 0,
+        "address": "",
+        "created_at": "2023-05-23T09:59:02.000000Z",
+        "type": "trainee",
+        "link": "https:\/\/team.bank.ru\/details\/bez-opyta\/7236096949536754199"
+      },
+      {
+        "uuid": "7236111578475206182",
+        "title": "Стажер - младший портфельный аналитик",
+        "description": "Стажировка с возможностью дальнейшего трудоустройства в банковской сфере.\r\nСроки стажировки: июль-сентябрь 2023",
+        "salary": "",
+        "category": {
+          "id": 3,
+          "title": "bez-opyta",
+          "description": "Быстрый старт"
+        },
+        "direction": {
+          "id": 51,
+          "title": "Быстрый старт"
+        },
+        "experience": {
+          "id": 8,
+          "title": "быстрый старт"
+        },
+        "location": {
+          "id": 606,
+          "title": "Москва"
+        },
+        "responsibilities": "работа с большим объемом данных (сбор, обработка, контроль качества данных)\r\nанализ данных\r\nподготовка регулярной отчетности и ad hoc отчетности по качеству кредитного портфеля\r\nподготовка соответствующих презентационных материалов для руководства",
+        "offers": "официальное трудоустройство по ТК РФ \r\nперспективу перхода в штат и карьерного роста в крупном банке\r\nлучшие программы обучения и возможности для развития\r\nработу в дружной команде профессионалов\r\nсопровождение наставника в период стажировки\r\nгибридный формат работы",
+        "skills": "выпускной курс бакалавриата или магистратуры (технический. математический факультеты)\r\nхорошее знание Excel, статистики, эконометрики\r\nбудет преимуществом знание SQL, языков программирования R\/Python\r\nобучаемость, внимательность к деталям и готовность работать в команде",
+        "manager_name": "Наследникова Анастасия Андреевна",
+        "manager_phone": "",
+        "manager_email": "NaslednikoAA@bank.ru",
+        "invite_friend": false,
+        "fee": 0,
+        "address": "",
+        "created_at": "2023-05-23T10:00:02.000000Z",
+        "type": "practice",
+        "link": "https:\/\/team.bank.ru\/details\/bez-opyta\/7236111578475206182"
+      },
+      {
+        "uuid": "7236113622387152199",
+        "title": "Стажер - клиентский менеджер по работе с розничным бизнесом",
+        "description": "Стажировка с возможностью дальнейшего трудоустройства в банковской сфере.\r\nСроки стажировки: июнь-сентябрь 2023",
+        "salary": "",
+        "category": {
+          "id": 3,
+          "title": "bez-opyta",
+          "description": "Быстрый старт"
+        },
+        "direction": {
+          "id": 51,
+          "title": "Быстрый старт"
+        },
+        "experience": {
+          "id": 8,
+          "title": "быстрый старт"
+        },
+        "location": {
+          "id": 606,
+          "title": "Москва"
+        },
+        "responsibilities": "сопровождение кредитного процесса\r\nработа с клиентскими обращениями\r\nведение персональных проектов\r\nосуществление сбора документов, проверки комплектности представленных документов",
+        "offers": "официальное трудоустройство по ТК РФ\r\nперспективу перехода в штат и карьерного роста в крупном банке\r\nлучшие программы обучения и возможности для развития\r\nработу в дружной команде профессионалов\r\nсопровождение наставника в период стажировки\r\nработа в офисе",
+        "skills": "выпускной курс колледжа, техникума или университета\r\nхорошие знания MS Ecxel\r\nнацеленность на результат\r\nумение работать в команде\r\nответственность, исполнительность, активность\r\nжелание развиваться в сфере привлечения клиентов",
+        "manager_name": "Наследникова Анастасия Андреевна",
+        "manager_phone": "",
+        "manager_email": "NaslednikoAA@bank.ru",
+        "invite_friend": false,
+        "fee": 0,
+        "address": "",
+        "created_at": "2023-05-23T10:01:02.000000Z",
+        "type": "vacancy",
+        "link": "https:\/\/team.bank.ru\/details\/bez-opyta\/7236113622387152199"
+      },
+      {
+        "uuid": "7236307432539101647",
+        "title": "Стажер - сотрудник миддл-офиса",
+        "description": "Стажировка с возможностью дальнейшего трудоустройства в банковской сфере.\r\nСроки стажировки: июнь-сентябрь 2023",
+        "salary": "",
+        "category": {
+          "id": 3,
+          "title": "bez-opyta",
+          "description": "Быстрый старт"
+        },
+        "direction": {
+          "id": 51,
+          "title": "Быстрый старт"
+        },
+        "experience": {
+          "id": 8,
+          "title": "быстрый старт"
+        },
+        "location": {
+          "id": 606,
+          "title": "Москва"
+        },
+        "responsibilities": "сортировка поступающей корреспонденции\r\nпроведение проверки полноты и правильности заполнения документов\r\nзаведение информации в системы внутреннего учета\r\nсшивание и брошюровка\/переплет документов\r\nсканирование, уничтожение документов",
+        "offers": "официальное трудоустройство по ТК РФ \r\nперспективу перехода в штат и карьерного роста в крупном банке\r\nлучшие программы обучения и возможности для развития\r\nработу в дружной команде профессионалов\r\nсопровождение наставника в период стажировки\r\nработа в офисе",
+        "skills": "выпускной курс колледжа, техникума или университета\r\nнавыки работы с документами\r\nразвитые навыки общения с людьми, грамотная речь\r\nнацеленность на результат\r\nответственность, исполнительность, аккуратность\r\nвладение ПК на уровне уверенного пользователя",
+        "manager_name": "Наследникова Анастасия Андреевна",
+        "manager_phone": "",
+        "manager_email": "NaslednikoAA@bank.ru",
+        "invite_friend": false,
+        "fee": 0,
+        "address": "",
+        "created_at": "2023-05-23T10:01:02.000000Z",
+        "type": "trainee",
+        "link": "https:\/\/team.bank.ru\/details\/bez-opyta\/7236307432539101647"
+      },
+      {
+        "uuid": "7236080070496827820",
+        "title": "Стажер - офис менеджер",
+        "description": "Стажировка с возможностью дальнейшего трудоустройства в банковской сфере.\r\nСроки стажировки: июнь-август 2023",
+        "salary": "",
+        "category": {
+          "id": 3,
+          "title": "bez-opyta",
+          "description": "Быстрый старт"
+        },
+        "direction": {
+          "id": 51,
+          "title": "Быстрый старт"
+        },
+        "experience": {
+          "id": 8,
+          "title": "быстрый старт"
+        },
+        "location": {
+          "id": 184,
+          "title": "Воронеж"
+        },
+        "responsibilities": "консультирование клиентов по продуктам банка\r\nпроведение проверки полноты и правильности заполнения документов\r\nконтроль правильности оформления, нормативных требований\r\nсшивание и брошюровка\/переплет документов\r\n-сканирование, уничтожение документов",
+        "offers": "официальное трудоустройство по ТК РФ\r\nперспективу перехода в штат и карьерного роста в крупном банке\r\nлучшие программы обучения и возможности для развития\r\nработу в дружной команде профессионалов\r\nсопровождение наставника в период стажировки\r\nработа в офисе",
+        "skills": "выпускной курс колледжа, техникума или университета\r\nнавыки работы с документами\r\nразвитые навыки общения с людьми, грамотная речь\r\nнацеленность на результат\r\nответственность, исполнительность, аккуратность\r\nвладение ПК на уровне уверенного пользователя",
+        "manager_name": "Наследникова Анастасия Андреевна",
+        "manager_phone": "",
+        "manager_email": "NaslednikoAA@bank.ru",
+        "invite_friend": false,
+        "fee": 0,
+        "address": "",
+        "created_at": "2023-05-23T10:03:02.000000Z",
+        "type": "trainee",
+        "link": "https:\/\/team.bank.ru\/details\/bez-opyta\/7236080070496827820"
+      },
+      {
+        "uuid": "7236109018120915880",
+        "title": "Стажер - помощник юриста-судебника",
+        "description": "Стажировка с возможностью дальнейшего трудоустройства в юридическую службу банка.\r\nСроки стажировки: июнь-октябрь 2023",
+        "salary": "",
+        "category": {
+          "id": 3,
+          "title": "bez-opyta",
+          "description": "Быстрый старт"
+        },
+        "direction": {
+          "id": 51,
+          "title": "Быстрый старт"
+        },
+        "experience": {
+          "id": 8,
+          "title": "быстрый старт"
+        },
+        "location": {
+          "id": 606,
+          "title": "Москва"
+        },
+        "responsibilities": "подготовка пакета документов для отправки в суды\r\nнаправление копий документов участникам процесса\r\nучастие в судебных заседаниях",
+        "offers": "официальное трудоустройство по ТК РФ\r\nперспективу перехода в штат и карьерного роста в крупном банке\r\nлучшие программы обучения и возможности для развития\r\nработу в дружной команде профессионалов\r\nсопровождение наставника в период стажировки\r\nгибридный формат работы",
+        "skills": "выпускной курс бакалавриата по направлению юриспруденция\r\nграмотная письменная и устная речь \r\nвладение ПК на уровне уверенного пользователя\r\nнацеленность на результат\r\nответственность, настойчивость, внимательность",
+        "manager_name": "Наследникова Анастасия Андреевна",
+        "manager_phone": "",
+        "manager_email": "NaslednikoAA@bank.ru",
+        "invite_friend": false,
+        "fee": 0,
+        "address": "",
+        "created_at": "2023-05-23T10:04:02.000000Z",
+        "type": "trainee",
+        "link": "https:\/\/team.bank.ru\/details\/bez-opyta\/7236109018120915880"
+      },
+      {
+        "uuid": "7236120422258444561",
+        "title": "Стажер - клиентский менеджер по работе с малым бизнесом",
+        "description": "Стажировка с возможностью дальнейшего трудоустройства в банковской сфере.\r\nСроки стажировки: июль-сентябрь 2023",
+        "salary": "",
+        "category": {
+          "id": 3,
+          "title": "bez-opyta",
+          "description": "Быстрый старт"
+        },
+        "direction": {
+          "id": 51,
+          "title": "Быстрый старт"
+        },
+        "experience": {
+          "id": 8,
+          "title": "быстрый старт"
+        },
+        "location": {
+          "id": 606,
+          "title": "Москва"
+        },
+        "responsibilities": "операционное обслуживание клиентов-  юридических лиц\r\nприем и проведение платежных документов: п.поручений, чеков, обьявление на взнос наличными; открытие и закрытие и ведение счетов в валюте РФ и иностранной валюте  \r\nпредоставление (консультация и оформление) услуг по обслуживание клиентов с помощью системы дистанционного банковского обслуживания\r\nработа с запросами гос. органов, \r\nработа с запросами клиентов и внутренних служб Банка ( подготовка и формирование ответов)",
+        "offers": "официальное трудоустройство по ТК РФ \r\nперспективу перехода в штат и карьерного роста в крупном банке\r\nработу в дружной команде профессионалов\r\nсопровождение наставника в период стажировки\r\nработа в офисе",
+        "skills": "выпускной курс колледжа, техникума или университета направления экономика\r\nразвитые навыки общения с людьми, грамотная речь\r\nнацеленность на результат\r\nумение работать в команде\r\nответственность, исполнительность, активность\r\nжелание работать в бизнес-подразделении (клиентском подразделении) банка",
+        "manager_name": "Наследникова Анастасия Андреевна",
+        "manager_phone": "",
+        "manager_email": "NaslednikoAA@bank.ru",
+        "invite_friend": false,
+        "fee": 0,
+        "address": "",
+        "created_at": "2023-05-23T10:06:02.000000Z",
+        "type": "vacancy",
+        "link": "https:\/\/team.bank.ru\/details\/bez-opyta\/7236120422258444561"
+      },
+      {
+        "uuid": "7235990566881877697",
+        "title": "Стажер - клиентский менеджер по обслуживанию физических лиц",
+        "description": "Стажировка с возможностью дальнейшего трудоустройства в банковской сфере.\r\nСроки стажировки: июнь-август 2023.",
+        "salary": "",
+        "category": {
+          "id": 3,
+          "title": "bez-opyta",
+          "description": "Быстрый старт"
+        },
+        "direction": {
+          "id": 51,
+          "title": "Быстрый старт"
+        },
+        "experience": {
+          "id": 8,
+          "title": "быстрый старт"
+        },
+        "location": {
+          "id": 91,
+          "title": "Белорецк"
+        },
+        "responsibilities": "оказание помощи клиентам (ФЛ) в заполнении документов\r\nпроведение проверки полноты и правильности заполнения документов\r\nконсультирование клиентов по тарифами текущих операций\r\nосуществление сбора документов, необходимых для принятия решения о кредитовании, проверки комплектности представленных документов",
+        "offers": "официальное трудоустройство по ТК РФ\r\nперспективу перехода в штат и карьерного роста в крупном банке\r\nлучшие программы обучения и возможности для развития\r\nработу в дружной команде профессионалов\r\nсопровождение наставника в период стажировки\r\nработа в офисе",
+        "skills": "выпускной курс колледжа, техникума или университета\r\nразвитые навыки общения с людьми, грамотная речь\r\nнацеленность на результат\r\nумение работать в команде\r\nответственность, исполнительность, активность\r\nжелание развиваться и посвятить себя продажам",
+        "manager_name": "Наследникова Анастасия Андреевна",
+        "manager_phone": "",
+        "manager_email": "NaslednikoAA@bank.ru",
+        "invite_friend": false,
+        "fee": 0,
+        "address": "",
+        "created_at": "2023-05-23T10:07:02.000000Z",
+        "type": "vacancy",
+        "link": "https:\/\/team.bank.ru\/details\/bez-opyta\/7235990566881877697"
+      },
+      {
+        "uuid": "7236100011649862584",
+        "title": "Стажер - клиентский менеджер по работе с розничным бизнесом",
+        "description": "Стажировка с возможностью дальнейшего трудоустройства в банковской сфере.\r\nСроки стажировки: июль-октябрь 2023",
+        "salary": "",
+        "category": {
+          "id": 3,
+          "title": "bez-opyta",
+          "description": "Быстрый старт"
+        },
+        "direction": {
+          "id": 51,
+          "title": "Быстрый старт"
+        },
+        "experience": {
+          "id": 8,
+          "title": "быстрый старт"
+        },
+        "location": {
+          "id": 479,
+          "title": "Красноярск"
+        },
+        "responsibilities": "выявление потребностей клиента\r\nконсультация по работе терминала\r\nобвон клиентской базы\r\nосуществление сбора документов, проверки комплектности представленных документов",
+        "offers": "официальное трудоустройство по ТК РФ\r\nперспективу перехода в штат и карьерного роста в крупном банке\r\nлучшие программы обучения и возможности для развития\r\nработу в дружной команде профессионалов\r\nсопровождение наставника в период стажировки\r\nработа в офисе",
+        "skills": "выпускной курс колледжа, техникума или университета направления экономика\r\nразвитые навыки общения с людьми, грамотная речь\r\nнацеленность на результат\r\nумение работать в команде\r\nответственность, исполнительность, активность\r\nжелание развиваться в сфере привлечения клиентов",
+        "manager_name": "Наследникова Анастасия Андреевна",
+        "manager_phone": "",
+        "manager_email": "NaslednikoAA@bank.ru",
+        "invite_friend": false,
+        "fee": 0,
+        "address": "",
+        "created_at": "2023-05-23T10:08:02.000000Z",
+        "type": "practice",
+        "link": "https:\/\/team.bank.ru\/details\/bez-opyta\/7236100011649862584"
+      },
+      {
+        "uuid": "7236313265861506652",
+        "title": "Стажер - младший разработчик математических моделей",
+        "description": "Стажировка с возможностью дальнейшего трудоустройства в сфере аналитики.\r\nСроки стажировки: июль-ноябрь 2023",
+        "salary": "",
+        "category": {
+          "id": 3,
+          "title": "bez-opyta",
+          "description": "Быстрый старт"
+        },
+        "direction": {
+          "id": 51,
+          "title": "Быстрый старт"
+        },
+        "experience": {
+          "id": 8,
+          "title": "быстрый старт"
+        },
+        "location": {
+          "id": 606,
+          "title": "Москва"
+        },
+        "responsibilities": "анализ клиентской базы банка\r\nанализ результатов коммуникации с клиентами\r\nразработка моделей машинного обучения типа Next Best Offer\r\nсегментация воронки продаж",
+        "offers": "официальное трудоустройство по ТК РФ \r\nперспективу перехода в штат и карьерного роста в крупном банке\r\nлучшие программы обучения и возможности для развития\r\nработу в дружной команде профессионалов\r\nсопровождение наставника в период стажировки\r\nгибридный формат работы (возможна удаленная работа из других городов РФ)",
+        "skills": "выпускной курс университета\r\nхорошее знание Oracle SQL, Python, математической статистики и теории вероятности\r\nобучаемость, внимательность к деталям и готовность работать в команде",
+        "manager_name": "Наследникова Анастасия Андреевна",
+        "manager_phone": "",
+        "manager_email": "NaslednikoAA@bank.ru",
+        "invite_friend": false,
+        "fee": 0,
+        "address": "",
+        "created_at": "2023-05-23T10:09:02.000000Z",
+        "type": "practice",
+        "link": "https:\/\/team.bank.ru\/details\/bez-opyta\/7236313265861506652"
+      },
+      {
+        "uuid": "7236317898798491792",
+        "title": "Стажер - специалист службы безопасности",
+        "description": "Стажировка с возможностью дальнейшего в службу безопасности банка.\r\nСроки стажировки: июль-сентябрь 2023",
+        "salary": "",
+        "category": {
+          "id": 3,
+          "title": "bez-opyta",
+          "description": "Быстрый старт"
+        },
+        "direction": {
+          "id": 51,
+          "title": "Быстрый старт"
+        },
+        "experience": {
+          "id": 8,
+          "title": "быстрый старт"
+        },
+        "location": {
+          "id": 606,
+          "title": "Москва"
+        },
+        "responsibilities": "обращение к официальным сайтам госорганов, телефонные звонки в госорганы\r\nнаправление писем в госорганы с просьбой подтвердить подлинность, сверить подпись и печать\r\nформирование почтовой корреспонденции\r\nформирование конвертов и описей",
+        "offers": "официальное трудоустройство по ТК РФ \r\nперспективу перехода в штат и карьерного роста в крупном банке\r\nлучшие программы обучения и возможности для развития\r\nработу в дружной команде профессионалов\r\nсопровождение наставника в период стажировки\r\nработа в офисе",
+        "skills": "выпускной курс университета по направлению юриспруденция, экономика\r\nграмотная устная и письменная речь\r\nответственность, соблюдение сроков, дисциплина\r\nнацеленность на результат\r\nвладение ПК на уровне уверенного пользователя",
+        "manager_name": "Наследникова Анастасия Андреевна",
+        "manager_phone": "",
+        "manager_email": "NaslednikoAA@bank.ru",
+        "invite_friend": false,
+        "fee": 0,
+        "address": "",
+        "created_at": "2023-05-23T10:17:02.000000Z",
+        "type": "vacancy",
+        "link": "https:\/\/team.bank.ru\/details\/bez-opyta\/7236317898798491792"
+      },
+      {
+        "uuid": "7236319887926907784",
+        "title": "Стажер - архивист",
+        "description": "Стажировка с возможностью дальнейшего трудоустройства в дирекцию делопроизводства банка.\r\nСроки стажировки: июнь-сентябрь 2023",
+        "salary": "",
+        "category": {
+          "id": 3,
+          "title": "bez-opyta",
+          "description": "Быстрый старт"
+        },
+        "direction": {
+          "id": 51,
+          "title": "Быстрый старт"
+        },
+        "experience": {
+          "id": 8,
+          "title": "быстрый старт"
+        },
+        "location": {
+          "id": 606,
+          "title": "Москва"
+        },
+        "responsibilities": "архивно-техническая подготовка документов к архивному хранению и уничтожению\r\nсоставление описей\r\nформирование архивных коробов",
+        "offers": "официальное трудоустройство по ТК РФ \r\nперспективу перехода в штат и карьерного роста в крупном банке\r\nлучшие программы обучения и возможности для развития\r\nработу в дружной команде профессионалов\r\nсопровождение наставника в период стажировки\r\nработа в офисе",
+        "skills": "знание основ архивного дела\r\nнавыки формирования дел\r\nответственность, соблюдение сроков, дисциплина\r\nнацеленность на результат",
+        "manager_name": "Наследникова Анастасия Андреевна",
+        "manager_phone": "",
+        "manager_email": "NaslednikoAA@bank.ru",
+        "invite_friend": false,
+        "fee": 0,
+        "address": "",
+        "created_at": "2023-05-23T10:24:01.000000Z",
+        "type": "vacancy",
+        "link": "https:\/\/team.bank.ru\/details\/bez-opyta\/7236319887926907784"
+      },
+      {
+        "uuid": "7236321727004364775",
+        "title": "Стажер - аналитик банковских продуктов",
+        "description": "Стажировка с возможностью дальнейшего трудоустройства в сфере аналитики банковских продуктов.\r\nСроки стажировки: август-ноябрь 2023",
+        "salary": "",
+        "category": {
+          "id": 3,
+          "title": "bez-opyta",
+          "description": "Быстрый старт"
+        },
+        "direction": {
+          "id": 51,
+          "title": "Быстрый старт"
+        },
+        "experience": {
+          "id": 8,
+          "title": "быстрый старт"
+        },
+        "location": {
+          "id": 606,
+          "title": "Москва"
+        },
+        "responsibilities": "анализ продуктового ряда Банка  и банков-конкурентов по продукту «Ипотека»\r\nподготовка итогов анализа (презентаций, отчетов)\r\nучастие в проектной деятельности",
+        "offers": "официальное трудоустройство по ТК РФ \r\nперспективу перехода в штат и карьерного роста в крупном банке\r\nлучшие программы обучения и возможности для развития\r\nработу в дружной команде профессионалов\r\nсопровождение наставника в период стажировки\r\nработа в офисе",
+        "skills": "выпускной курс ССУЗа или ВУЗа\r\nуверенный пользователь ПК\r\nответственность, соблюдение сроков, дисциплина\r\nнацеленность на результат",
+        "manager_name": "Наследникова Анастасия Андреевна",
+        "manager_phone": "",
+        "manager_email": "NaslednikoAA@bank.ru",
+        "invite_friend": false,
+        "fee": 0,
+        "address": "",
+        "created_at": "2023-05-23T10:33:02.000000Z",
+        "type": "practice",
+        "link": "https:\/\/team.bank.ru\/details\/bez-opyta\/7236321727004364775"
+      },
+      {
+        "uuid": "7236324561887981155",
+        "title": "Стажер в техническую поддержку банка",
+        "description": "Стажировка с возможностью дальнейшего трудоустройства в техническую подедржку банка.\r\nСроки стажировки: июнь-октябрь 2023",
+        "salary": "",
+        "category": {
+          "id": 3,
+          "title": "bez-opyta",
+          "description": "Быстрый старт"
+        },
+        "direction": {
+          "id": 51,
+          "title": "Быстрый старт"
+        },
+        "experience": {
+          "id": 8,
+          "title": "быстрый старт"
+        },
+        "location": {
+          "id": 606,
+          "title": "Москва"
+        },
+        "responsibilities": "организация и поддержка рабочих мест пользователей\r\nпрофилактические работы компьютерного оборудования\r\nсбор статистики\r\nактуализация баз данных\r\nучастие в проектной деятельности",
+        "offers": "официальное трудоустройство по ТК РФ \r\nперспективу перехода в штат и карьерного роста в крупном банке\r\nлучшие программы обучения и возможности для развития\r\nработу в дружной команде профессионалов\r\nсопровождение наставника в период стажировки\r\nработа в офисе",
+        "skills": "выпускной курс ССУЗа или ВУЗа\r\nбазовые знания в области архитектуры ПК\r\nпонимание принципов работы корпоративной локальной сети\r\nответственность, соблюдение сроков, дисциплина\r\nнацеленность на результат",
+        "manager_name": "Наследникова Анастасия Андреевна",
+        "manager_phone": "",
+        "manager_email": "NaslednikoAA@bank.ru",
+        "invite_friend": false,
+        "fee": 0,
+        "address": "",
+        "created_at": "2023-05-23T10:52:02.000000Z",
+        "type": "vacancy",
+        "link": "https:\/\/team.bank.ru\/details\/bez-opyta\/7236324561887981155"
+      },
+      {
+        "uuid": "7236328958612362389",
+        "title": "Стажер в дирекцию развития автокредитования",
+        "description": "Стажировка с возможностью дальнейшего трудоустройства сфере аналитики.\r\nСроки стажировки: июль-сентябрь 2023",
+        "salary": "",
+        "category": {
+          "id": 3,
+          "title": "bez-opyta",
+          "description": "Быстрый старт"
+        },
+        "direction": {
+          "id": 51,
+          "title": "Быстрый старт"
+        },
+        "experience": {
+          "id": 8,
+          "title": "быстрый старт"
+        },
+        "location": {
+          "id": 606,
+          "title": "Москва"
+        },
+        "responsibilities": "выгрузка и обработка данных из систем банка \r\nаналитика выгуженных данных\r\nработа с центрами хранения данных",
+        "offers": "официальное трудоустройство по ТК РФ \r\nперспективу перехода в штат и карьерного роста в крупном банке\r\nлучшие программы обучения и возможности для развития\r\nработу в дружной команде профессионалов\r\nсопровождение наставника в период стажировки\r\nгибридный формат работы",
+        "skills": "выпускной курс университета (экономика, математика, IT)\r\nхорошее знание Oracle SQL Developer, MS Office\r\nобучаемость, внимательность к деталям и готовность работать в команде\r\nнацеленность на результат\r\nвладение ПК на уровне уверенного пользователя",
+        "manager_name": "Наследникова Анастасия Андреевна",
+        "manager_phone": "",
+        "manager_email": "NaslednikoAA@bank.ru",
+        "invite_friend": false,
+        "fee": 0,
+        "address": "",
+        "created_at": "2023-05-23T11:04:02.000000Z",
+        "type": "practice",
+        "link": "https:\/\/team.bank.ru\/details\/bez-opyta\/7236328958612362389"
+      },
+      {
+        "uuid": "7236331841183892767",
+        "title": "Стажер в дирекцию развития и эффективности подразделений",
+        "description": "Стажировка с возможностью дальнейшего трудоустройства в сфере аналитики.\r\nСроки стажировки: июнь-сентябрь 2023",
+        "salary": "",
+        "category": {
+          "id": 3,
+          "title": "bez-opyta",
+          "description": "Быстрый старт"
+        },
+        "direction": {
+          "id": 51,
+          "title": "Быстрый старт"
+        },
+        "experience": {
+          "id": 8,
+          "title": "быстрый старт"
+        },
+        "location": {
+          "id": 606,
+          "title": "Москва"
+        },
+        "responsibilities": "проведение экспресс-оценок трудозатрат по бизнес-процессам с использованием внутренних инструментов и стандартных средств MS Office\r\nанализ существующих бизнес-процессов Банка, формирование предложений по их оптимизации, в т.ч. автоматизации\r\nописание бизнес-процессов Банка (текущие и целевые карты процессов Visio)",
+        "offers": "официальное трудоустройство по ТК РФ \r\nперспективу перехода в штат и карьерного роста в крупном банке\r\nлучшие программы обучения и возможности для развития\r\nработу в дружной команде профессионалов\r\nсопровождение наставника в период стажировки\r\nгибридный формат работы",
+        "skills": "выпускной курс университета\r\nаналитический склад ума\r\nвладение ПК на уровне продвинутого пользователя, (Word, Excel, PP, Visio)\r\nумение обрабатывать большие объемы данных, неструктурированные таблицы с применением математических, статистических формул \r\nумение структурировать полученную информацию и четко излагать свои мысли\r\nобщее понимание концепций баз данных, общих принципов проектирования ПО\r\nпредпочтительно знание методик описания бизнес-процессов (нотации BPMN)",
+        "manager_name": "Наследникова Анастасия Андреевна",
+        "manager_phone": "",
+        "manager_email": "NaslednikoAA@bank.ru",
+        "invite_friend": false,
+        "fee": 0,
+        "address": "",
+        "created_at": "2023-05-23T11:12:02.000000Z",
+        "type": "practice",
+        "link": "https:\/\/team.bank.ru\/details\/bez-opyta\/7236331841183892767"
+      },
+      {
+        "uuid": "7236334001028940313",
+        "title": "Стажер - кредитный аналитик",
+        "description": "Стажировка с возможностью дальнейшего трудоустройства в сфере аналитики банковских продуктов.\r\nСроки стажировки: июнь-сентябрь 2023",
+        "salary": "",
+        "category": {
+          "id": 3,
+          "title": "bez-opyta",
+          "description": "Быстрый старт"
+        },
+        "direction": {
+          "id": 51,
+          "title": "Быстрый старт"
+        },
+        "experience": {
+          "id": 8,
+          "title": "быстрый старт"
+        },
+        "location": {
+          "id": 606,
+          "title": "Москва"
+        },
+        "responsibilities": "анализ финансовых документов \r\nоценка кредитоспособности потенциального заемщика",
+        "offers": "официальное трудоустройство по ТК РФ \r\nперспективу перехода в штат и карьерного роста в крупном банке\r\nлучшие программы обучения и возможности для развития\r\nработу в дружной команде профессионалов\r\nсопровождение наставника в период стажировки\r\nработа в офисе",
+        "skills": "выпускной курс университета (ВШЭ, МГУ, РЭУ, МФТИ, МИФИ как преимущество) специальность финансы и кредит, рынок ценных бумаг, прикладная информатика в экономике\r\nуверенные навыки использования Exel\r\nумение работать в команде\r\nструктурное мышление",
+        "manager_name": "Наследникова Анастасия Андреевна",
+        "manager_phone": "",
+        "manager_email": "NaslednikoAA@bank.ru",
+        "invite_friend": false,
+        "fee": 0,
+        "address": "",
+        "created_at": "2023-05-23T11:19:02.000000Z",
+        "type": "trainee",
+        "link": "https:\/\/team.bank.ru\/details\/bez-opyta\/7236334001028940313"
+      },
+      {
+        "uuid": "7236357163133073526",
+        "title": "Стажер - клиентский менеджер по работе с юридическими лицами",
+        "description": "Стажировка с возможностью дальнейшего трудоустройства в банковской сфере.\r\nСроки стажировки: июль-сентябрь 2023",
+        "salary": "",
+        "category": {
+          "id": 3,
+          "title": "bez-opyta",
+          "description": "Быстрый старт"
+        },
+        "direction": {
+          "id": 51,
+          "title": "Быстрый старт"
+        },
+        "experience": {
+          "id": 8,
+          "title": "быстрый старт"
+        },
+        "location": {
+          "id": 674,
+          "title": "Новосибирск"
+        },
+        "responsibilities": "обзвон активной клиентской базы\r\nназначение встреч в офисе\r\nгенерация дополнительного клиентского потока\r\nформирование, архивирование клиентских досье",
+        "offers": "официальное трудоустройство по ТК РФ \r\nперспективу перехода в штат и карьерного роста в крупном банке\r\nлучшие программы обучения и возможности для развития\r\nработу в дружной команде профессионалов\r\nсопровождение наставника в период стажировки\r\nработа в офисе",
+        "skills": "выпускной курс университета, направление экономика\r\nразвитые навыки общения с людьми, грамотная речь\r\nнацеленность на результат\r\nумение работать в команде\r\nответственность, исполнительность, активность\r\nжелание развиваться в сфере привлечение клиентов",
+        "manager_name": "Наследникова Анастасия Андреевна",
+        "manager_phone": "",
+        "manager_email": "NaslednikoAA@bank.ru",
+        "invite_friend": false,
+        "fee": 0,
+        "address": "",
+        "created_at": "2023-05-23T12:54:02.000000Z",
+        "type": "vacancy",
+        "link": "https:\/\/team.bank.ru\/details\/bez-opyta\/7236357163133073526"
+      },
+      {
+        "uuid": "7236360389013551819",
+        "title": "Стажер - клиентский менеджер по работе с розничным бизнесом",
+        "description": "Стажировка с возможностью дальнейшего трудоустройства в банковской сфере.\r\nСроки стажировки: июль-октябрь 2023",
+        "salary": "",
+        "category": {
+          "id": 3,
+          "title": "bez-opyta",
+          "description": "Быстрый старт"
+        },
+        "direction": {
+          "id": 51,
+          "title": "Быстрый старт"
+        },
+        "experience": {
+          "id": 8,
+          "title": "быстрый старт"
+        },
+        "location": {
+          "id": 674,
+          "title": "Новосибирск"
+        },
+        "responsibilities": "работа с очередью, выявление потребностей клиента на потоке\r\nобзвон активной клиентской базы\r\nназначение встреч в офисе\r\nгенерация дополнительного клиентского потока\r\nформирование, архивирование клиентских досье",
+        "offers": "официальное трудоустройство по ТК РФ \r\nперспективу перехода в штат и карьерного роста в крупном банке\r\nлучшие программы обучения и возможности для развития\r\nработу в дружной команде профессионалов\r\nсопровождение наставника в период стажировки\r\nработа в офисе",
+        "skills": "выпускной курс университета, направление экономика\r\nразвитые навыки общения с людьми, грамотная речь\r\nнацеленность на результат\r\nумение работать в команде\r\nответственность, исполнительность, активность\r\nжелание развиваться в сфере привлечение клиентов",
+        "manager_name": "Наследникова Анастасия Андреевна",
+        "manager_phone": "",
+        "manager_email": "NaslednikoAA@bank.ru",
+        "invite_friend": false,
+        "fee": 0,
+        "address": "",
+        "created_at": "2023-05-23T13:25:02.000000Z",
+        "type": "vacancy",
+        "link": "https:\/\/team.bank.ru\/details\/bez-opyta\/7236360389013551819"
+      },
+      {
+        "uuid": "7236368390975259503",
+        "title": "Стажер - клиентский менеджмер по работе с малым бизнесом",
+        "description": "Стажировка с возможностью дальнейшего трудоустройства в банковской сфере.\r\nСроки стажировки: июль-октябрь 2023",
+        "salary": "",
+        "category": {
+          "id": 3,
+          "title": "bez-opyta",
+          "description": "Быстрый старт"
+        },
+        "direction": {
+          "id": 51,
+          "title": "Быстрый старт"
+        },
+        "experience": {
+          "id": 8,
+          "title": "быстрый старт"
+        },
+        "location": {
+          "id": 809,
+          "title": "Ростов-на-Дону"
+        },
+        "responsibilities": "выявление условий для перехода клиентов сегмента среднего бизнеса в Банк \r\nконсультирование клиентов, прием пакета документов, формирование досье\r\nпредоставление услуг клиентам с помощью системы дистанционного банковского обслуживания",
+        "offers": "официальное трудоустройство по ТК РФ \r\nперспективу перхода в штат и карьерного роста в крупном банке\r\nлучшие программы обучения и возможности для развития\r\nработу в дружной команде профессионалов\r\nсопровождение наставника в период стажировки\r\nработа в офисе",
+        "skills": "выпускной курс колледжа, техникума или университета\r\nумение работать в команде\r\nграмотная письменная и устная речь\r\nнацеленность на результат\r\nинициативность, вовлеченность, внимательность",
+        "manager_name": "Наследникова Анастасия Андреевна",
+        "manager_phone": "",
+        "manager_email": "NaslednikoAA@bank.ru",
+        "invite_friend": false,
+        "fee": 0,
+        "address": "",
+        "created_at": "2023-05-23T13:40:02.000000Z",
+        "type": "vacancy",
+        "link": "https:\/\/team.bank.ru\/details\/bez-opyta\/7236368390975259503"
+      },
+      {
+        "uuid": "7236372195860566505",
+        "title": "Стажер - менеджер по работе с клиентами премиального банка",
+        "description": "Стажировка с возможностью дальнейшего трудоустройства в банковской сфере.\r\nСроки стажировки: июль-ноябрь 2023",
+        "salary": "",
+        "category": {
+          "id": 3,
+          "title": "bez-opyta",
+          "description": "Быстрый старт"
+        },
+        "direction": {
+          "id": 51,
+          "title": "Быстрый старт"
+        },
+        "experience": {
+          "id": 8,
+          "title": "быстрый старт"
+        },
+        "location": {
+          "id": 828,
+          "title": "Санкт-Петербург"
+        },
+        "responsibilities": "контроль качества клиентского сервиса\r\nподготка документации для клиентов для оформления продуктов и услуг банка\r\nоперационное обслуживание клиентов\r\nпроведение встреч, первичных консультаций и сопровождение клиентов",
+        "offers": "официальное трудоустройство по ТК РФ \r\nперспективу перехода в штат и карьерного роста в крупном банке\r\nлучшие программы обучения и возможности для развития\r\nработу в дружной команде профессионалов\r\nсопровождение наставника в период стажировки\r\nработа в офисе",
+        "skills": "выпускной курс колледжа, техникума или университета\r\nумение работать в команде\r\nграмотная письменная и устная речь\r\nнацеленность на результат\r\nответственность, вовлеченность, внимательность",
+        "manager_name": "Наследникова Анастасия Андреевна",
+        "manager_phone": "",
+        "manager_email": "NaslednikoAA@bank.ru",
+        "invite_friend": false,
+        "fee": 0,
+        "address": "",
+        "created_at": "2023-05-23T13:45:01.000000Z",
+        "type": "vacancy",
+        "link": "https:\/\/team.bank.ru\/details\/bez-opyta\/7236372195860566505"
+      },
+      {
+        "uuid": "7236373420227501589",
+        "title": "Стажер - кредитный аналитик",
+        "description": "Стажировка с возможностью дальнейшего трудоустройства в сфере аналитики.\r\nСроки стажировки: июль-сентябрь 2023",
+        "salary": "",
+        "category": {
+          "id": 3,
+          "title": "bez-opyta",
+          "description": "Быстрый старт"
+        },
+        "direction": {
+          "id": 51,
+          "title": "Быстрый старт"
+        },
+        "experience": {
+          "id": 8,
+          "title": "быстрый старт"
+        },
+        "location": {
+          "id": 828,
+          "title": "Санкт-Петербург"
+        },
+        "responsibilities": "проведение анализа кредитных заявок корпоративного бизнеса (помощь ответственному аналитику)\r\nанализ полноты предоставленного пакета документов в рамках кредитной заявки\r\nформирование заключения (части заключения) по итогам финансового анализа\r\nсбор и структурирование информации по Заемщику из внешних источников",
+        "offers": "официальное трудоустройство по ТК РФ \r\nперспективу перехода в штат и карьерного роста в крупном банке\r\nлучшие программы обучения и возможности для развития\r\nработу в дружной команде профессионалов\r\nсопровождение наставника в период стажировки\r\nработа в офисе",
+        "skills": "выпускной курс университета\r\nзнание бухгалтерского учета, структуры баланса\r\nнавыки оценки экономических и финансовых показателей работы юридических лиц\r\nумение работать с большим объемом информации\r\nграмотная письменная и устная речь\r\nответственность, настойчивость, внимательность",
+        "manager_name": "Наследникова Анастасия Андреевна",
+        "manager_phone": "",
+        "manager_email": "NaslednikoAA@bank.ru",
+        "invite_friend": false,
+        "fee": 0,
+        "address": "",
+        "created_at": "2023-05-23T13:50:02.000000Z",
+        "type": "practice",
+        "link": "https:\/\/team.bank.ru\/details\/bez-opyta\/7236373420227501589"
+      },
+      {
+        "uuid": "7236374863875221722",
+        "title": "Стажер - юрисконсульт",
+        "description": "Стажировка с возможностью дальнейшего трудоустройства в юридическую службу банка.\r\nСроки стажировки: июнь-сентябрь 2023",
+        "salary": "",
+        "category": {
+          "id": 3,
+          "title": "bez-opyta",
+          "description": "Быстрый старт"
+        },
+        "direction": {
+          "id": 51,
+          "title": "Быстрый старт"
+        },
+        "experience": {
+          "id": 8,
+          "title": "быстрый старт"
+        },
+        "location": {
+          "id": 828,
+          "title": "Санкт-Петербург"
+        },
+        "responsibilities": "подготовка правовых заключений по вопросам розничного бизнеса и расчетно-кассового обслуживания\r\nпоиск судебной практики\r\nподготовка аналитических материалов и обзоров по поставленной правовой проблематике",
+        "offers": "официальное трудоустройство по ТК РФ \r\nперспективу перехода в штат и карьерного роста в крупном банке\r\nлучшие программы обучения и возможности для развития\r\nработу в дружной команде профессионалов\r\nсопровождение наставника в период стажировки\r\nгибридный формат работы",
+        "skills": "выпускной курс бакалавриата СПбГУ или ВШЭ по направлению юриспруденция\r\nграмотная письменная и устная речь \r\nвладение ПК на уровне уверенного пользователя\r\nнацеленность на результат\r\nответственность, настойчивость, внимательность",
+        "manager_name": "Наследникова Анастасия Андреевна",
+        "manager_phone": "",
+        "manager_email": "NaslednikoAA@bank.ru",
+        "invite_friend": false,
+        "fee": 0,
+        "address": "",
+        "created_at": "2023-05-23T13:56:02.000000Z",
+        "type": "trainee",
+        "link": "https:\/\/team.bank.ru\/details\/bez-opyta\/7236374863875221722"
+      },
+      {
+        "uuid": "7236376161091333375",
+        "title": "Стажер - юрисконсульт",
+        "description": "Стажировка с возможностью дальнейшего трудоустройства в юридическую службу банка.\r\nСроки стажировки: июль-сентябрь 2023",
+        "salary": "",
+        "category": {
+          "id": 3,
+          "title": "bez-opyta",
+          "description": "Быстрый старт"
+        },
+        "direction": {
+          "id": 51,
+          "title": "Быстрый старт"
+        },
+        "experience": {
+          "id": 8,
+          "title": "быстрый старт"
+        },
+        "location": {
+          "id": 828,
+          "title": "Санкт-Петербург"
+        },
+        "responsibilities": "подготовка юридических заключений в рамках сопровождения кредитного процесса ЮЛ и ИП\r\nдоговорная работа (подготовка и согласование договорной документации в рамках кредитного процесса)\r\nструктурирование кредитных сделок\r\nподготовка аналитических материалов и обзоров по поставленной правовой проблематике",
+        "offers": "официальное трудоустройство по ТК РФ \r\nперспективу перехода в штат и карьерного роста в крупном банке\r\nлучшие программы обучения и возможности для развития\r\nработу в дружной команде профессионалов\r\nсопровождение наставника в период стажировки\r\nработа в офисе",
+        "skills": "выпускной курс бакалавриата СПбГУ или ВШЭ по направлению юриспруденция\r\nграмотная письменная и устная речь \r\nвладение ПК на уровне уверенного пользователя\r\nнацеленность на результат\r\nответственность, настойчивость, внимательность",
+        "manager_name": "Наследникова Анастасия Андреевна",
+        "manager_phone": "",
+        "manager_email": "NaslednikoAA@bank.ru",
+        "invite_friend": false,
+        "fee": 0,
+        "address": "",
+        "created_at": "2023-05-23T14:00:02.000000Z",
+        "type": "practice",
+        "link": "https:\/\/team.bank.ru\/details\/bez-opyta\/7236376161091333375"
+      },
+      {
+        "uuid": "7236377268245037973",
+        "title": "Стажер - юрисконсульт",
+        "description": "Стажировка с возможностью дальнейшего трудоустройства в юридическую службу банка.\r\nСроки стажировки: июнь-сентябрь 2023",
+        "salary": "",
+        "category": {
+          "id": 3,
+          "title": "bez-opyta",
+          "description": "Быстрый старт"
+        },
+        "direction": {
+          "id": 51,
+          "title": "Быстрый старт"
+        },
+        "experience": {
+          "id": 8,
+          "title": "быстрый старт"
+        },
+        "location": {
+          "id": 1014,
+          "title": "Уфа"
+        },
+        "responsibilities": "подготовка правовых заключений по вопросам розничного бизнеса и расчетно-кассового обслуживания\r\nпоиск судебной практики\r\nподготовка аналитических материалов и обзоров по поставленной правовой проблематике",
+        "offers": "официальное трудоустройство по ТК РФ \r\nперспективу перехода в штат и карьерного роста в крупном банке\r\nлучшие программы обучения и возможности для развития\r\nработу в дружной команде профессионалов\r\nсопровождение наставника в период стажировки\r\nгибридный формат работы",
+        "skills": "выпускной курс бакалавриата или магистратуры БГУ\r\nграмотная письменная и устная речь \r\nвладение ПК на уровне уверенного пользователя\r\nнацеленность на результат\r\nответственность, настойчивость, внимательность",
+        "manager_name": "Наследникова Анастасия Андреевна",
+        "manager_phone": "",
+        "manager_email": "NaslednikoAA@bank.ru",
+        "invite_friend": false,
+        "fee": 0,
+        "address": "",
+        "created_at": "2023-05-23T14:04:02.000000Z",
+        "type": "practice",
+        "link": "https:\/\/team.bank.ru\/details\/bez-opyta\/7236377268245037973"
+      },
+      {
+        "uuid": "7236378463038763725",
+        "title": "Стажер - менеджер по развитию технологий",
+        "description": "Стажировка с возможностью дальнейшего трудоустройства в сфере аналитики.\r\nСроки стажировки: июнь-июль 2023",
+        "salary": "",
+        "category": {
+          "id": 3,
+          "title": "bez-opyta",
+          "description": "Быстрый старт"
+        },
+        "direction": {
+          "id": 51,
+          "title": "Быстрый старт"
+        },
+        "experience": {
+          "id": 8,
+          "title": "быстрый старт"
+        },
+        "location": {
+          "id": 1014,
+          "title": "Уфа"
+        },
+        "responsibilities": "сбор, анализ и описание бизнес-требований к процессу или доработкам системы\r\nверхнеуровневая оценка необходимости внедрения новых процессов, ПО\r\nоценка затрат, KPI и рентабельности проектов",
+        "offers": "официальное трудоустройство по ТК РФ \r\nперспективу перехода в штат и карьерного роста в крупном банке\r\nлучшие программы обучения и возможности для развития\r\nработу в дружной команде профессионалов\r\nсопровождение наставника в период стажировки\r\nгибридный формат работы",
+        "skills": "выпускной курс университета\r\nжелание развития в направлении управления проектами (Project Manager)\r\nумение структурировать полученную информацию\r\nграмотная письменная и устная речь, навыки общения с людьми\r\nнацеленность на результат\r\nответственность, настойчивость, внимательность",
+        "manager_name": "Наследникова Анастасия Андреевна",
+        "manager_phone": "",
+        "manager_email": "NaslednikoAA@bank.ru",
+        "invite_friend": false,
+        "fee": 0,
+        "address": "",
+        "created_at": "2023-05-23T14:09:02.000000Z",
+        "type": "practice",
+        "link": "https:\/\/team.bank.ru\/details\/bez-opyta\/7236378463038763725"
+      },
+      {
+        "uuid": "7236379515425225613",
+        "title": "Стажер - офис менеджер",
+        "description": "Стажировка с возможностью дальнейшего трудоустройства в банковской сфере.\r\nСроки стажировки: июль-сентябрь 2023",
+        "salary": "",
+        "category": {
+          "id": 3,
+          "title": "bez-opyta",
+          "description": "Быстрый старт"
+        },
+        "direction": {
+          "id": 51,
+          "title": "Быстрый старт"
+        },
+        "experience": {
+          "id": 8,
+          "title": "быстрый старт"
+        },
+        "location": {
+          "id": 1048,
+          "title": "Челябинск"
+        },
+        "responsibilities": "консультирование клиентов по продуктам банка\r\nнавигирование клиентов в отделении банка\r\nпомощь клиентам при оплате на терминале",
+        "offers": "официальное трудоустройство по ТК РФ \r\nперспективу перехода в штат и карьерного роста в крупном банке\r\nлучшие программы обучения и возможности для развития\r\nработу в дружной команде профессионалов\r\nсопровождение наставника в период стажировки\r\nработа в офисе",
+        "skills": "выпускной курс колледжа, техникума или университета\r\nразвитые навыки общения с людьми, грамотная речь\r\nнацеленность на результат\r\nответственность, исполнительность, аккуратность\r\nвладение ПК на уровне уверенного пользователя",
+        "manager_name": "Наследникова Анастасия Андреевна",
+        "manager_phone": "",
+        "manager_email": "NaslednikoAA@bank.ru",
+        "invite_friend": false,
+        "fee": 0,
+        "address": "",
+        "created_at": "2023-05-23T14:13:01.000000Z",
+        "type": "trainee",
+        "link": "https:\/\/team.bank.ru\/details\/bez-opyta\/7236379515425225613"
+      },
+      {
+        "uuid": "7236086976712879209",
+        "title": "Стажер - клиентский менеджер по обслуживанию физических лиц",
+        "description": "Стажировка с возможностью дальнейшего трудоустройства в банковской сфере.\r\nСроки стажировки: июнь-сентябрь 2023",
+        "salary": "",
+        "category": {
+          "id": 3,
+          "title": "bez-opyta",
+          "description": "Быстрый старт"
+        },
+        "direction": {
+          "id": 51,
+          "title": "Быстрый старт"
+        },
+        "experience": {
+          "id": 8,
+          "title": "быстрый старт"
+        },
+        "location": {
+          "id": 277,
+          "title": "Екатеринбург"
+        },
+        "responsibilities": "оказание помощи клиентам (ФЛ) в заполнении документов\nпроведение проверки полноты и правильности заполнения документов\nконсультирование клиентов по тарифами текущих операций\nосуществление сбора документов, необходимых для принятия решения о кредитовании, проверки комплектности представленных документов\"",
+        "offers": "официальное трудоустройство по ТК РФ \r\nперспективу перхода в штат и карьерного роста в крупном банке\r\nлучшие программы обучения и возможности для развития\r\nработу в дружной команде профессионалов\r\nсопровождение наставника в период стажировки\r\nработа в офисе",
+        "skills": "выпускной курс колледжа, техникума или университета\r\nразвитые навыки общения с людьми, грамотная речь\r\nнацеленность на результат\r\nумение работать в команде\r\nответственность, исполнительность, активность\r\nжелание развиваться и посвятить себя продажам",
+        "manager_name": "Наследникова Анастасия Андреевна",
+        "manager_phone": "",
+        "manager_email": "NaslednikoAA@bank.ru",
+        "invite_friend": false,
+        "fee": 0,
+        "address": "",
+        "created_at": "2023-05-23T14:32:02.000000Z",
+        "type": "vacancy",
+        "link": "https:\/\/team.bank.ru\/details\/bez-opyta\/7236086976712879209"
+      },
+      {
+        "uuid": "7199878846467277173",
+        "title": "Клиентский менеджер",
+        "description": "осуществлять операционное или сервисное обслуживание физических лиц;\r\nпродавать клиентам (физлицам) кредитные продукты;",
+        "salary": "",
+        "category": {
+          "id": 3,
+          "title": "bez-opyta",
+          "description": "Быстрый старт"
+        },
+        "direction": {
+          "id": 51,
+          "title": "Быстрый старт"
+        },
+        "experience": {
+          "id": 8,
+          "title": "быстрый старт"
+        },
+        "location": {
+          "id": 978,
+          "title": "Туймазы"
+        },
+        "responsibilities": "осуществлять операционное или сервисное обслуживание физических лиц;\r\nпродавать клиентам (физлицам) кредитные продукты;\r\nследить за качеством клиентского сервиса;\r\nинформировать текущих клиентов о возможности приобрести дополнительные продукты;\r\nискать и привлекать новых клиентов, которые захотят приобрести продукты банка, а также небанковские кросс-продукты",
+        "offers": "официальное трудоустройство согласно ТК РФ с 1-го дня;\r\nдостойная заработная плата без верхнего предела;\r\nплавающий график 5\/2 с 9 до 18 часов, одна рабочая суббота в месяце с сокращённым графиком с 10 до 16 часов;\r\nрасширенный соц. пакет с ДМС, льготами от банка и скидками от компаний-партнёров;\r\nперспективы карьерного роста;\r\nкомфортная атмосфера, дружный коллектив и разнообразные задачи.",
+        "skills": "вы завершили техникум, колледж или университет (неполное высшее);\r\nимеете опыт продаж в банковской сфере (желательно);\r\nкоммуникабельны, ориентированы на интересы клиента;\r\nстрессоустойчивы и умеете работать в команде.",
+        "manager_name": "Шаяхметова Лиана Мунировна",
+        "manager_phone": "",
+        "manager_email": "ShayakhmetLM@ufa.bank.ru",
+        "invite_friend": true,
+        "fee": 7000,
+        "address": "Туймазы, ул.Комарова , д.8 а",
+        "created_at": "2023-05-29T08:17:02.000000Z",
+        "type": "practice",
+        "link": "https:\/\/team.bank.ru\/details\/bez-opyta\/7199878846467277173"
+      },
+      {
+        "uuid": "7237418679209822836",
+        "title": "Ассистент персонального менеджера",
+        "description": "Сопровождение клиентов премиум сегмента (розница), доп продажа продуктов Банка",
+        "salary": "",
+        "category": {
+          "id": 3,
+          "title": "bez-opyta",
+          "description": "Быстрый старт"
+        },
+        "direction": {
+          "id": 51,
+          "title": "Быстрый старт"
+        },
+        "experience": {
+          "id": 8,
+          "title": "быстрый старт"
+        },
+        "location": {
+          "id": 395,
+          "title": "Кемерово"
+        },
+        "responsibilities": "сопровождать клиентов премиум сегмента\r\nпредлагать инвестиционные и банковские продукты\r\nвыстраивать долгосрочные отношения с действующими клиентами\r\nорганизовывать встречи с профильными специалистами\r\n",
+        "offers": "официальное трудоустройство по ТК РФ с первого дня работы\r\nграфик работы 5\/2 с 9 до 18 часов\r\nбелая заработная плата два раза в месяц\r\nежегодный отпуск, больничный, льготное ДМС с первого дня работы\r\nльготные условия по кредитной карте, кредиту и ипотеке\r\nвозможность построить карьеру в стабильном банке",
+        "skills": "вы завершили техникум, колледж или университет (неполное высшее тоже подойдёт)\r\nимеете опыт продаж в банковской сфере (желательно)\r\nзнаете линейку банковских продуктов\r\nкоммуникабельны, ориентированы на интересы клиента\r\nстрессоустойчивы и умеете работать в команде",
+        "manager_name": "Мамедова Конул Сеидмамед кызы",
+        "manager_phone": "+7(951)6687818",
+        "manager_email": "MamedovaKS@spb.bank.ru",
+        "invite_friend": true,
+        "fee": 7000,
+        "address": "Междуреченск, пр-кт Строителей, д.18",
+        "created_at": "2023-05-30T04:53:02.000000Z",
+        "type": "trainee",
+        "link": "https:\/\/team.bank.ru\/details\/bez-opyta\/7237418679209822836"
+      },
+      {
+        "uuid": "7215092369705088800",
+        "title": "Клиентский менеджер",
+        "description": "Операционное и сервисное обслуживание физических лиц (стахование, кредитование, депозиты)",
+        "salary": "",
+        "category": {
+          "id": 3,
+          "title": "bez-opyta",
+          "description": "Быстрый старт"
+        },
+        "direction": {
+          "id": 51,
+          "title": "Быстрый старт"
+        },
+        "experience": {
+          "id": 8,
+          "title": "быстрый старт"
+        },
+        "location": {
+          "id": 743,
+          "title": "Пермь"
+        },
+        "responsibilities": "Осуществлять операционное или сервисное обслуживание физических лиц\r\nПродавать клиентам (физлицам) кредитные продукты\r\nСледить за качеством клиентского сервиса\r\nИнформировать текущих клиентов о возможности приобрести дополнительные продукты\r\nПоиск и привлечение новых клиентов на продукты банка, а также небанковские кросс-продукты",
+        "offers": "Официальное трудоустройство согласно ТК РФ с первого рабочего дня\r\nДостойная заработная плата, с возможностью влиять на свой совокупный доход без верхнего предела\r\nГрафик 5\/2, с 9 до 18\r\nРасширенный соцпакет с ДМС\r\nЛьготы от банка и скидками от компаний-партнёров\r\nВозможность карьерного роста\r\nКомфортная атмосфера, дружный коллектив и разнообразные задачи",
+        "skills": "Среднее специальное или высшее образование \r\nИмеете опыт продаж в банковской сфере (желательно)\r\nЗнаете линейку банковских продуктов\r\nКоммуникабельны, ориентированы на интересы клиента\r\nСтрессоустойчивы и умеете работать в команде\r\n",
+        "manager_name": "Зайцева Валентина Владимировна",
+        "manager_phone": "",
+        "manager_email": "ZajtsevaVV@pee.bank.ru",
+        "invite_friend": true,
+        "fee": 7000,
+        "address": "Пермь, ул.Пермская, д.43",
+        "created_at": "2023-06-01T06:30:02.000000Z",
+        "type": "trainee",
+        "link": "https:\/\/team.bank.ru\/details\/bez-opyta\/7215092369705088800"
+      },
+      {
+        "uuid": "7241447038929888125",
+        "title": "Офис-менеджер",
+        "description": "Управление входящим Клиентским потоком и оказание консультационно-справочных услуг.\r\nПродажи и кросс-продажи розничной линейки продуктов клиентам - физическим лицам.",
+        "salary": "",
+        "category": {
+          "id": 3,
+          "title": "bez-opyta",
+          "description": "Быстрый старт"
+        },
+        "direction": {
+          "id": 51,
+          "title": "Быстрый старт"
+        },
+        "experience": {
+          "id": 8,
+          "title": "быстрый старт"
+        },
+        "location": {
+          "id": 1014,
+          "title": "Уфа"
+        },
+        "responsibilities": "- Консультировать посетителей;\r\n- Помогать клиентам ориентироваться в отделении Банка;\r\n- Подключать дистанционное банковское обслуживание, активировать карты;\r\n- Продавать дополнительные продукты розничной линейки (кросс-продажи).",
+        "offers": "- Официальное трудоустройство с 1-го дня;\r\n- График 5\/2 с 9:00 до 18:00;\r\n- Расширенный соц. пакет, включая полис ДМС;\r\n- Льготы от Банка и скидки от компаний-партнеров;\r\n- Развитие профессиональных навыков;\r\n- Перспективы карьерного роста.",
+        "skills": "- У Вас среднее специальное\/высшее образование (неполное в т.ч.);\r\n- Имеете опыт работы в сфере активных продаж (желательно);\r\n- Коммуникабельны, стрессоустойчивы, умеете работать в команде.",
+        "manager_name": "Шаяхметова Лиана Мунировна",
+        "manager_phone": "",
+        "manager_email": "ShayakhmetLM@ufa.bank.ru",
+        "invite_friend": true,
+        "fee": 7000,
+        "address": "Уфа, ул. Революционная, д.41",
+        "created_at": "2023-06-06T06:58:01.000000Z",
+        "type": "trainee",
+        "link": "https:\/\/team.bank.ru\/details\/bez-opyta\/7241447038929888125"
+      },
+      {
+        "uuid": "7241820228482703082",
+        "title": "Ведущий \/ Главный специалист по работе с клиентами (сервисное обслуживание)",
+        "description": "Блока Корпоративный и малый бизнес",
+        "salary": "",
+        "category": {
+          "id": 3,
+          "title": "bez-opyta",
+          "description": "Быстрый старт"
+        },
+        "direction": {
+          "id": 51,
+          "title": "Быстрый старт"
+        },
+        "experience": {
+          "id": 8,
+          "title": "быстрый старт"
+        },
+        "location": {
+          "id": 1014,
+          "title": "Уфа"
+        },
+        "responsibilities": "осуществление сервисных обзвонов сегмента Малого бизнеса с целью повышения лояльности клиентов\r\nудержание клиентов\r\nпроведение опросов действующих клиентов разной направленности\r\nконсультирование действующих клиентов малого бизнеса, продажа продуктов и услуг Банка (продажи не холодные, попутные действующим клиентам, привлекать никого не нужно)",
+        "offers": "работа в колл-центре банка\r\nстабильная белая зарплата два раза в месяц: от 43 тыс. руб. (фиксированный оклад + показатели KPI)\r\nграфик работы– 5\/2 (суббота, воскресенье выходной) с 10:00-19:00\r\nофициальное оформление согласно ТК РФ с первого дня. Наши тренера и наставники с Вами на всем пути обучения и испытательного срока\r\nвозможность удаленного формата работы (после испытательного срока при выполнении личных показателей KPI)\r\nсоциальный пакет (ежегодный отпуск, больничный лист, льготное ДМС, льготное кредитование)\r\nкорпоративные скидки от партнеров (мобильная связь, фитнес, одежда и обувь и т.д)\r\nотсутствие выездов и личных встреч с клиентами\r\nкомфортный офис в центре города\r\nвозможности для развития и карьерного роста, непрерывное корпоративное обучение\r\nнет системы штрафов, только плановые показатели\r\nреферальная программа для сотрудников банка: приглашай друзей и получи бонус в денежном эквиваленте\r\nяркая корпоративная жизнь\r\nздоровая корпоративная среда, которая действительно помогает расти и развиваться",
+        "skills": "умение работать с большим объемом информации\r\nхорошие навыки коммуникации и презентации\r\nумение разрешать конфликтные ситуации, организованность\r\nприветствуется личный опыт в телефонных или прочих продаж",
+        "manager_name": "Ломакина Яна Вадимовна",
+        "manager_phone": "+7(917)8019323",
+        "manager_email": "RomanovaYV@ufa.bank.ru",
+        "invite_friend": true,
+        "fee": 5000,
+        "address": "",
+        "created_at": "2023-06-07T06:28:02.000000Z",
+        "type": "trainee",
+        "link": "https:\/\/team.bank.ru\/details\/bez-opyta\/7241820228482703082"
+      },
+      {
+        "uuid": "7239379905492578854",
+        "title": "Специалист сопровождения кредитных и депозитных операций клиентов – юридических лиц",
+        "description": "Дирекции сопровождения кредитный и депозитных операций клиентов и юридических лиц",
+        "salary": "",
+        "category": {
+          "id": 3,
+          "title": "bez-opyta",
+          "description": "Быстрый старт"
+        },
+        "direction": {
+          "id": 51,
+          "title": "Быстрый старт"
+        },
+        "experience": {
+          "id": 8,
+          "title": "быстрый старт"
+        },
+        "location": {
+          "id": 953,
+          "title": "Тверь"
+        },
+        "responsibilities": "бухгалтерское сопровождение кредитных и депозитных продуктов юридических лиц\r\nформирование проводок по учету, гашению, выдаче и т.д. кредитных договоров юридических лиц\r\nразмещение и возврат клиентам ЮЛ депозитных договоров, а также заведение схем по НСО,СМО",
+        "offers": "оформление согласно ТК РФ\r\nстабильная заработная плата\r\nполный рабочий день смены с 7:00-16:00 и с 11:00-20:00\r\nсистема наставничества",
+        "skills": "образование высшее (экономическое, математическое, техническое ) или не законченное высшее\r\nумение работать с большим объемом информации\r\nуверенный пользователь ПК\r\nстремление к профессиональному и личностному росту\r\nнацеленность на результат\r\nбыстрая обучаемость\r\nинициативность",
+        "manager_name": "Нигматуллина Гульнара Винировна",
+        "manager_phone": "8-9174163917",
+        "manager_email": "NigmatulliGV@ufa.bank.ru",
+        "invite_friend": false,
+        "fee": 0,
+        "address": "Тверь, пр-кт Калинина, д. 17",
+        "created_at": "2023-06-07T14:50:02.000000Z",
+        "type": "vacancy",
+        "link": "https:\/\/team.bank.ru\/details\/bez-opyta\/7239379905492578854"
+      },
+      {
+        "uuid": "7220416921687033551",
+        "title": "Специалист-оператор САП",
+        "description": "Дирекции технического сопровождения",
+        "salary": "",
+        "category": {
+          "id": 3,
+          "title": "bez-opyta",
+          "description": "Быстрый старт"
+        },
+        "direction": {
+          "id": 51,
+          "title": "Быстрый старт"
+        },
+        "experience": {
+          "id": 8,
+          "title": "быстрый старт"
+        },
+        "location": {
+          "id": 1014,
+          "title": "Уфа"
+        },
+        "responsibilities": "ввод данных и создание технических документов по первичным учетным документам в программном комплексе SAP AXД, SAP АСУН в рамках сопровождения хозяйственных операций, совершаемых структурными подразделениями банка, и их отражения в бухгалтерском учете на балансе банка\r\nвнесение изменений в учетные данные движения имущества банка в программном комплексе SAP АХД",
+        "offers": "официальное трудоустройство по ТК РФ (полный соц. пакет)\r\n\r\nстабильную заработную плату\r\n\r\nполную занятость\r\n\r\nграфик работы 5\/2, время работы с 09:00 до 18:00",
+        "skills": "образование среднее профессиональное или высшее\r\nопыт работы не требуется\r\nзнание основных правил финансового документооборота\r\nумение работать в команде\r\nумение работать с нормативной, методической документацией",
+        "manager_name": "Нигматуллина Гульнара Винировна",
+        "manager_phone": "8-9174163917",
+        "manager_email": "NigmatulliGV@ufa.bank.ru",
+        "invite_friend": false,
+        "fee": 0,
+        "address": "Уфа, Революционная ул., д.41\/1",
+        "created_at": "2023-06-07T14:54:02.000000Z",
+        "type": "trainee",
+        "link": "https:\/\/team.bank.ru\/details\/bez-opyta\/7220416921687033551"
+      },
+      {
+        "uuid": "7239676852079249286",
+        "title": "Офис-менеджер",
+        "description": "Управление входящим Клиентским потоком и оказание консультационно-справочных услуг.\r\nПродажи и кросс-продажи розничной линейки продуктов клиентам - физическим лицам.",
+        "salary": "",
+        "category": {
+          "id": 3,
+          "title": "bez-opyta",
+          "description": "Быстрый старт"
+        },
+        "direction": {
+          "id": 51,
+          "title": "Быстрый старт"
+        },
+        "experience": {
+          "id": 8,
+          "title": "быстрый старт"
+        },
+        "location": {
+          "id": 640,
+          "title": "Нефтекамск"
+        },
+        "responsibilities": "- Консультировать посетителей;\r\n- Помогать клиентам ориентироваться в отделении Банка;\r\n- Подключать дистанционное банковское обслуживание, активировать карты;\r\n- Продавать дополнительные продукты розничной линейки (кросс-продажи).",
+        "offers": "- Официальное трудоустройство с 1-го дня;\r\n- График 5\/2 с 9:00 до 18:00;\r\n- Расширенный соц. пакет, включая полис ДМС;\r\n- Льготы от Банка и скидки от компаний-партнеров;\r\n- Развитие профессиональных навыков;\r\n- Перспективы карьерного роста.",
+        "skills": "- У Вас среднее специальное\/высшее образование (неполное в т.ч.);\r\n- Имеете опыт работы в сфере активных продаж (желательно);\r\n- Коммуникабельны, стрессоустойчивы, умеете работать в команде.",
+        "manager_name": "Шаяхметова Лиана Мунировна",
+        "manager_phone": "+7(937)1635012",
+        "manager_email": "ShayakhmetLM@ufa.bank.ru",
+        "invite_friend": true,
+        "fee": 7000,
+        "address": "Нефтекамск, ул. Ленина, д. 21",
+        "created_at": "2023-06-16T06:08:02.000000Z",
+        "type": "vacancy",
+        "link": "https:\/\/team.bank.ru\/details\/bez-opyta\/7239676852079249286"
+      },
+      {
+        "uuid": "7238570678125557542",
+        "title": "Офис-менеджер",
+        "description": "консультация,помощь клиентам",
+        "salary": "",
+        "category": {
+          "id": 3,
+          "title": "bez-opyta",
+          "description": "Быстрый старт"
+        },
+        "direction": {
+          "id": 51,
+          "title": "Быстрый старт"
+        },
+        "experience": {
+          "id": 8,
+          "title": "быстрый старт"
+        },
+        "location": {
+          "id": 1014,
+          "title": "Уфа"
+        },
+        "responsibilities": "консультировать\r\nпомогать клиентам ориентироваться в отделении банка\r\nподключать дистанционное банковское обслуживание, активировать карты\r\nпродавать дополнительные продукты розничной линейки (кросс-продажи)",
+        "offers": "официальное трудоустройство согласно ТК РФ с первого рабочего дня\r\nдостойная заработная плата\r\nрасширенный соцпакет с ДМС, льготами от банка и скидками от компаний-партнёров\r\nподдержка в профессиональном развитии\r\nвозможность построить карьеру",
+        "skills": "завершили техникум, колледж или университет (неполное высшее)\r\nцените грамотную речь\r\nготовы общаться с разными клиентами",
+        "manager_name": "Торлова Юлия Васильевна",
+        "manager_phone": "",
+        "manager_email": "TorlovaYV@ufa.bank.ru",
+        "invite_friend": true,
+        "fee": 7000,
+        "address": "Уфа, ул. Шафиева, д. 11",
+        "created_at": "2023-06-16T09:07:02.000000Z",
+        "type": "practice",
+        "link": "https:\/\/team.bank.ru\/details\/bez-opyta\/7238570678125557542"
+      },
+      {
+        "uuid": "7239317989055877642",
+        "title": "Операционист-кассир",
+        "description": "Работа с физ.лицами, принимать и выдавать деньги",
+        "salary": "",
+        "category": {
+          "id": 3,
+          "title": "bez-opyta",
+          "description": "Быстрый старт"
+        },
+        "direction": {
+          "id": 51,
+          "title": "Быстрый старт"
+        },
+        "experience": {
+          "id": 8,
+          "title": "быстрый старт"
+        },
+        "location": {
+          "id": 1014,
+          "title": "Уфа"
+        },
+        "responsibilities": "работать с физлицами по вкладам (в рублях и иностранной валюте), денежным переводам без открытия счета, картам\r\nпринимать и выдавать деньги, производить валютообменные операции\r\nотправлять или выплачивать денежные переводы\r\nобслуживать банкоматы и банковские платежные терминалы\r\nпродавать дополнительные банковские продукты",
+        "offers": "работа в крупном развивающемся банке\r\nэкспертиза в области расчётно-кассового обслуживания клиентов\r\nрасширенный соц.пакет с ДМС, льготами от банка и скидками от компаний-партнёров\r\nпрофессиональный и стабильный коллектив",
+        "skills": "завершили техникум, колледж или университет (неполное высшее)\r\nхотите развиваться в банковской сфере\r\nзнакомы с нормативными документами Банка России\r\nответственны, усидчивы и коммуникабельны\r\nбыстро усваиваете новую информацию",
+        "manager_name": "Торлова Юлия Васильевна",
+        "manager_phone": "",
+        "manager_email": "TorlovaYV@ufa.bank.ru",
+        "invite_friend": true,
+        "fee": 7000,
+        "address": "Уфа, ул. Жукова, д. 11",
+        "created_at": "2023-06-16T09:27:01.000000Z",
+        "type": "practice",
+        "link": "https:\/\/team.bank.ru\/details\/bez-opyta\/7239317989055877642"
+      },
+      {
+        "uuid": "7242228954928085536",
+        "title": "Специалист по работе с кредитной задолженностью",
+        "description": "Хочешь начать карьеру в банке, но нет опыта? Стартуй с простых задач!",
+        "salary": "",
+        "category": {
+          "id": 3,
+          "title": "bez-opyta",
+          "description": "Быстрый старт"
+        },
+        "direction": {
+          "id": 51,
+          "title": "Быстрый старт"
+        },
+        "experience": {
+          "id": 8,
+          "title": "быстрый старт"
+        },
+        "location": {
+          "id": 1048,
+          "title": "Челябинск"
+        },
+        "responsibilities": "консультирование клиентов банка по телефону, имеющих просроченную задолженность на ранних этапах\r\nконтроль сроков погашения задолженности в соответствии с действующими договоренностями\r\nприем входящих звонков по вопросам возникновения просроченной задолженности",
+        "offers": "Официальное трудоустройство по ТК РФ (полный соц. пакет, ДМС)\r\nСтабильная заработная плата + премия\r\nграфик работы 5\/2 , сменный (смены 8:00-17:00, 9:00-18:00, 12:00-21:00, 13:00-22:00 в вечернее время корпоративное такси)\r\nвозможен удаленный\/гибридный формат работы, в т.ч. для вечерних смен, для сотрудников, которые успешно прошли обучение и освоили функционал\r\nперспектива карьерного роста в крупном банке\r\nлучшие программы обучения и возможности для развития\r\nработа в дружной команде профессионалов",
+        "skills": "рассматриваем кандидатов без опыта работы, есть обучение\r\nнавыки общения с людьми, грамотная речь\r\nнацеленность на результат, умение работать в команде\r\nмреднее профессиональное образование",
+        "manager_name": "Голощапова Алина Сергеевна",
+        "manager_phone": "+7(951)4560026",
+        "manager_email": "GoloschapoAS@ufa.bank.ru",
+        "invite_friend": true,
+        "fee": 5000,
+        "address": "",
+        "created_at": "2023-06-19T09:04:02.000000Z",
+        "type": "trainee",
+        "link": "https:\/\/team.bank.ru\/details\/bez-opyta\/7242228954928085536"
+      },
+      {
+        "uuid": "7236094474754469596",
+        "title": "Стажер - специалист по работе с банковскими картами",
+        "description": "Стажировка с возможностью дальнейшего трудоустройства в банковской сфере.\r\n\r\n\r\nЧем предстоит заниматься:\r\nсопровождение процесса выдачи карт и ПИН-конвертов:\r\nинформирование организации по готовности карт\r\nподготовка и формирование актов приема-передачи для получения из хранилища Банка и выдачи в организации\r\nсортировка и раскладка карт и ПИН-конвертов по каждому ФЛ\r\nкорректировка данных в ПК, формирование досье, передача в ТП\r\nперевод бумажного архива досье в электронный\r\n\r\nНаши ожидания:\r\nвыпускной курс колледжа, техникума или университета\r\nнавыки работы с документами\r\nразвитые навыки общения с людьми, грамотная речь\r\nнацеленность на результат\r\nответственность, исполнительность, аккуратность\r\nвладение ПК на уровне уверенного пользователя\r\n\r\nМы предлагаем:\r\nофициальное трудоустройство по ТК РФ\r\nперспективу перхода в штат и карьерного роста в крупном банке\r\nлучшие программы обучения и возможности для развития\r\nработу в дружной команде профессионалов\r\nсопровождение наставника в период стажировки",
+        "salary": "",
+        "category": {
+          "id": 3,
+          "title": "bez-opyta",
+          "description": "Быстрый старт"
+        },
+        "direction": {
+          "id": 51,
+          "title": "Быстрый старт"
+        },
+        "experience": {
+          "id": 8,
+          "title": "быстрый старт"
+        },
+        "location": {
+          "id": 467,
+          "title": "Краснодар"
+        },
+        "responsibilities": "Сопровождение процесса выдачи карт и ПИН-конвертов:\r\nинформирование организации по готовности карт\r\nподготовка и формирование актов приема-передачи для получения из хранилища Банка и выдачи в организации\r\nсортировка и раскладка карт и ПИН-конвертов по каждому ФЛ\r\nкорректировка данных в ПК, формирование досье, передача в ТП\r\nперевод бумажного архива досье в электронный",
+        "offers": "официальное трудоустройство по ТК РФ\r\nперспективу перхода в штат и карьерного роста в крупном банке\r\nлучшие программы обучения и возможности для развития\r\nработу в дружной команде профессионалов\r\nсопровождение наставника в период стажировки\r\nработа в офисе",
+        "skills": "выпускной курс колледжа, техникума или университета\r\nнавыки работы с документами\r\nразвитые навыки общения с людьми, грамотная речь\r\nнацеленность на результат\r\nответственность, исполнительность, аккуратность\r\nвладение ПК на уровне уверенного пользователя",
+        "manager_name": "Наследникова Анастасия Андреевна",
+        "manager_phone": "",
+        "manager_email": "NaslednikoAA@bank.ru",
+        "invite_friend": false,
+        "fee": 0,
+        "address": null,
+        "created_at": "2023-06-19T14:05:02.000000Z",
+        "type": "trainee",
+        "link": "https:\/\/team.bank.ru\/details\/bez-opyta\/7236094474754469596"
+      }
+    ],
+    "success": true
+  },
+  "events": {
+    "data": {
+      "items": [
+        {
+          "id": "0d56c4bb-b4a3-4370-8e83-62d74a50f65d",
+          "title": "Цифровое мошенничество: реалии и борьба",
+          "session_id": 1085367213,
+          "external_id": 2094380019,
+          "description": "Обсуждение актуальных финансовых вопросов. Финансовая грамотность имеет большое значение в наше время, так как деньги играют важную роль в различных аспектах жизни. Вебинар будет включать следующие темы:\n- Ограничения и риски в инвестировании криптовалюты.\n- Как различить скам от добросовестных игроков и избегать финансовых пирамид?\n- Техники безопасности при работе с цифровыми финансовыми инструментами.\n\nСпикер представителя Ассоциации развития финансовой грамотности и бывшего консультанта Департамента информационной безопасности Банка России.",
+          "image": "img/events/cyber-crime.png",
+          "created_at": "2023-04-03T18:34:15.000000Z",
+          "link": "https:\/\/events.webinar.ru\/event\/",
+          "is_online": 1,
+          "status": "ACTIVE",
+          "datetime": "2024-04-20 18:00:00",
+          "date_time": "2024-04-20 18:00:00",
+          "author": "Jon Doe",
+          "event_id": 2094380019,
+          "meta": {
+            "links": {
+              "vk": "https:\/\/vk.ru",
+              "video_preview": null
+            },
+            "place": null
+          },
+          "program": null,
+          "speakers": []
+        },
+        {
+          "id": "644fdf58-f194-41f5-bdff-9d82ec2fbdb5",
+          "title": "Экзамен: катастрофа или светлое будущее",
+          "session_id": 471179204,
+          "external_id": 1581774255,
+          "description": "Вебинар, который поможет студентам справиться со стрессом перед экзаменами. Участники узнают, как справиться с экзаменационным стрессом, использовать положительную энергию и снять стресс. Темы вебинара включают:\n- Как управлять стрессовыми ситуациями?\n- Инструменты для снятия стресса.\n- Лайфхаки и опыт спикера.\n\nСпикер: основатель Психологической Мастерской INSIGHT, психоаналитик, клинический психолог, старший преподаватель кафедры общей и социальной психологии МГИМО МИД России.",
+          "image": "img/events/exam.png",
+          "created_at": "2023-05-05T05:30:03.000000Z",
+          "link": "https:\/\/events.webinar.ru\/event\/",
+          "is_online": 1,
+          "status": "ACTIVE",
+          "datetime": "2024-05-30 18:30:00",
+          "date_time": "2024-05-30 18:30:00",
+          "author": "Jon Doe",
+          "event_id": 1581774255,
+          "meta": {
+            "links": {
+              "vk": null,
+              "video_preview": null
+            },
+            "place": null
+          },
+          "program": null,
+          "speakers": []
+        },
+        {
+          "id": "7671fe1f-755f-4578-a877-d41a70867767",
+          "title": "Старт карьеры в дизайне!",
+          "session_id": 2051982828,
+          "external_id": 1283162061,
+          "description": "Вебинар, который поможет людям понять, какие профессии в дизайне востребованы сейчас и выбрать свое направление в этой области. Темы вебинара включают:\n- Различные направления в дизайне.\n- Как выбрать свое направление?\n- Как начать карьеру в дизайне?\n- Тренды и лайфхаки от спикера.\n\nСпикер: дизайнер в банке.",
+          "image": "img/events/design.png",
+          "created_at": "2023-05-05T05:30:03.000000Z",
+          "link": "https:\/\/events.webinar.ru\/",
+          "is_online": 1,
+          "status": "ACTIVE",
+          "datetime": "2023-05-18 18:00:00",
+          "date_time": "2023-05-18 18:00:00",
+          "author": "Jon Doe",
+          "event_id": 1283162061,
+          "meta": {
+            "links": {
+              "vk": null,
+              "video_preview": null
+            },
+            "place": null
+          },
+          "program": null,
+          "speakers": []
+        },
+        {
+          "id": "d9f9a163-9d86-4880-b0db-056d7fc69ca6",
+          "title": "Эффективное построение и использование социального капитала",
+          "session_id": 798669945,
+          "external_id": 1657486795,
+          "description": "Мастер-класс о создании социального капитала и роли бизнес-комьюнити в его построении. Окружение служит опорой для личностного и материального роста. Вебинар расскажет о следующих аспектах:\n- Роль бизнес-комьюнити в построении социального капитала.\n- Инвестиции в социальные связи.\n\nСпикер: сооснователь и президент клуба для молодых предпринимателей ClubFirst Young в партнёрстве с Клубом Первых и СберПервым. Основатель строительной компании «РТФ-Групп».",
+          "image": "img/events/social.png",
+          "created_at": "2023-04-03T18:34:15.000000Z",
+          "link": "https:\/\/events.webinar.ru\/event\/",
+          "is_online": 1,
+          "status": "ACTIVE",
+          "datetime": "2023-04-27 18:00:00",
+          "date_time": "2023-04-27 18:00:00",
+          "author": "Jon Doe",
+          "event_id": 1657486795,
+          "meta": {
+            "links": {
+              "vk": "https:\/\/vk.ru",
+              "video_preview": null
+            },
+            "place": "Marshal Jukov's sqare"
+          },
+          "program": [
+            {
+              "timing": "00:00",
+              "description": "text"
+            },
+            {
+              "timing": "01:00",
+              "description": "text 2"
+            }
+          ],
+          "speakers": []
+        }
+      ]
+    },
+    "success": true
+  },
+  "courses": {
+    "data": {
+      "items": [
+        {
+          "id": "6c3705e9-30a2-41e7-9d59-f1a0f14ca489",
+          "title": "Старт — Курс: Банковское дело",
+          "session_id": null,
+          "external_id": 143213,
+          "description": null,
+          "image": "img/program.png",
+          "created_at": "2023-04-03T18:15:13.000000Z",
+          "link": "https:\/\/events.webinar.ru\/",
+          "is_online": null,
+          "status": null,
+          "datetime": null,
+          "date_time": null,
+          "author": null,
+          "event_id": 12344,
+          "meta": {
+            "links": {
+              "vk": null,
+              "video_preview": null
+            },
+            "place": null
+          },
+          "program": null
+        }
+      ]
+    },
+    "success": true
+  },
+  "banners": {
+    "data": {
+      "items": [
+        {
+          "id": "44dad178-2d7e-44b9-8a93-bf028ebf238a",
+          "priority": 1,
+          "title": "Как попасть на стажировку \u2028",
+          "description": "123",
+          "image": "img/banners/banner_one.png",
+          "category": "main",
+          "link": null,
+          "created_at": "2023-04-03T18:34:50.000000Z",
+          "updated_at": "2023-04-03T18:35:37.000000Z"
+        },
+        {
+          "id": "44dad178-2d7e-44b9-8a93-bf028eb8a93",
+          "priority": 0,
+          "title": "Записывайся скорее!",
+          "description": "123",
+          "image": "img/banners/banner_two.png",
+          "category": "main",
+          "link": null,
+          "created_at": "2023-04-03T18:34:50.000000Z",
+          "updated_at": "2023-04-03T18:35:37.000000Z"
+        }
+      ]
+    },
+    "success": true
+  },
+  "results": {
+    "data": [
+      {
+        "generation_of_ideas": {
+          "title": "Генерация идей",
+          "description": "Ваше мышление подбирает подходящую старую идею из прошлого опыта",
+          "mark": -4
+        },
+        "independence_in_decision_making": {
+          "title": "Самостоятельность в принятии решений",
+          "description": "Ваша оценка совпадает с целевой",
+          "mark": 0
+        },
+        "operational_adaptability": {
+          "title": "Оперативная адаптивность",
+          "description": "Ваше мышление не может перестроиться в неожиданной ситуации",
+          "mark": -5
+        },
+        "the_speed_of_understanding_an_unfamiliar_task": {
+          "title": "Скорость вникания в незнакомую задачу",
+          "description": "При усилии Вы можете быстро вникнуть в незнакомую задачу",
+          "mark": -1
+        },
+        "perception_of_negative_feedback": {
+          "title": "Восприятие негативной обратной связи",
+          "description": "Вы крайне болезненно реагируете на любую критику",
+          "mark": -5
+        },
+        "tactical_objectivity": {
+          "title": "Тактическая объективность",
+          "description": "При непосредственном обсуждении конкретной проблемы Вы можете смотреть на нее только с одной стороны",
+          "mark": -4
+        },
+        "risk_attitude": {
+          "title": "Отношение к риску",
+          "description": "В абсолютном большинстве случаев Вы предпочтете \"журавля в небе\"",
+          "mark": -3
+        },
+        "priority_of_result_or_process": {
+          "title": "Приоритет результата или процесса",
+          "description": "Вы можете заставить себя идти неоптимальным путем только ради какого-то выдающегося результата",
+          "mark": -2
+        },
+        "responsibility_fo_decisions": {
+          "title": "Ответственность за решения",
+          "description": "Вы признаете свою ответственность только под давлением неопровержимых фактов",
+          "mark": -2
+        },
+        "attitude_to_the_opinion_of_the_team": {
+          "title": "Отношение к мнению команды",
+          "description": "Вы прислушаетесь к мнению команды только при угрозе катастрофических последствий и только не по значимым для Вас вопросам",
+          "mark": -2
+        },
+        "establishing_contacts": {
+          "title": "Установление контактов",
+          "description": "Вы избегаете контактов даже в необходимых случаях",
+          "mark": -4
+        },
+        "position_in_the_relationship_with_the_client": {
+          "title": "Позиция в работе с заказчиком",
+          "description": "Вы проигнорируете мнение заказчика при любой возможности",
+          "mark": -2
+        },
+        "focusing_on_the_flow_of_information": {
+          "title": "Фокусировка в потоке информации",
+          "description": "Вы не можете следить за нитью обсуждения",
+          "mark": -4
+        },
+        "discussion_management": {
+          "title": "Управление дискуссией",
+          "description": "Вам трудно пресекать отступления от темы",
+          "mark": -2
+        },
+        "logics": {
+          "title": "Логика",
+          "description": "У Вас преобладают логические ошибки",
+          "mark": -4
+        },
+        "argumentation": {
+          "title": "Аргументация",
+          "description": "Вы используете только слабые аргументы",
+          "mark": -4
+        },
+        "strategic_objectivity": {
+          "title": "Стратегическая объективность",
+          "description": "Вы узко и односторонне оцениваете ситуацию",
+          "mark": -6
+        },
+        "attitude_towards_conflicts": {
+          "title": "Отношение к конфликтам",
+          "description": "Вы пойдете на конфликт при малейшем подозрении на угрозу Вашим интересам",
+          "mark": -5
+        },
+        "emotionality_and_the_transmission_of_emotions": {
+          "title": "Эмоциональность и трансляция эмоций",
+          "description": "Вы стараетесь воздействовать на окружающих рационально, но не эмоционально",
+          "mark": -1
+        },
+        "team_care": {
+          "title": "Забота о команде",
+          "description": "Вы не станете делать чужую работу даже при собственной разгруженности",
+          "mark": -1
+        },
+        "routine_prioritization": {
+          "title": "Приоритизация рутины",
+          "description": "Вы готовы чем-то пожертвовать только под давлением или при значительном усилии",
+          "mark": -1
+        },
+        "attention_to_detail": {
+          "title": "Внимание к деталям",
+          "description": "Вы предпочитаете воспринимать информацию поверхностно, не вдаваясь в детали",
+          "mark": -2
+        },
+        "organizing_your_time": {
+          "title": "Организация своего времени",
+          "description": "Вам трудно работать последовательно, зато нет проблем с режимом \"тушения пожаров",
+          "mark": -1
+        },
+        "following_the_plan": {
+          "title": "Следование плану",
+          "description": "Ваша оценка совпадает с целевой",
+          "mark": 0
+        },
+        "reflection": {
+          "title": "Рефлексия",
+          "description": "Вы полагаетесь на свои знания и опыт, не подвергая их даже малейшему сомнению",
+          "mark": -7
+        },
+        "the_best_conditions_for_your_thinking_1": "Ваше мышление хорошо справляется с обработкой большого количества задач одновременно",
+        "the_best_conditions_for_your_thinking_2": "Вам подойдут условия, где есть возможность чередовать периоды выраженной активности и некоторого спада энтузиазма",
+        "the_best_conditions_for_your_thinking_3": "Для Вашего мышления хорошо подходит стабильная среда с повторяющимися понятными задачами и четкими правилами игры",
+        "the_best_conditions_for_your_thinking_4": null,
+        "the_best_conditions_for_your_thinking_5": null,
+        "the_worst_conditions_for_your_thinking_1": "Вашему мышлению может быть сложно справиться в ситуации выраженной неопределенности",
+        "the_worst_conditions_for_your_thinking_2": "Вам не подойдет работа, где нужно постоянно вдаваться в детали и закапываться в больших объемах информации",
+        "the_worst_conditions_for_your_thinking_3": "Также не подойдет работа, где нужно инициировать изменения",
+        "the_worst_conditions_for_your_thinking_4": null,
+        "the_worst_conditions_for_your_thinking_5": null,
+        "what_questions_should_you_ask_in_an_interview_1_1": "Есть ли четкая инструкция, как действовать в той или иной ситуации?",
+        "what_questions_should_you_ask_in_an_interview_1_2": "Если инструкции нет, то Вам придется действовать по своему усмотрению, а в Вашем случае не факт, что это совпадет с ожиданиями руководтсва",
+        "what_questions_should_you_ask_in_an_interview_2_1": "Работа на стабильном рынке или часто приходится менять стратегию?",
+        "what_questions_should_you_ask_in_an_interview_2_2": "Если компания работает на неустойчивом рынке, могут директивно спускаться изменения, которым придется следовать. Готовы к этому?",
+        "what_questions_should_you_ask_in_an_interview_3_1": "Есть ли возможность чередовать фазы активности и упадка сил?",
+        "what_questions_should_you_ask_in_an_interview_3_2": "Если требуется равномерная нагрузка, Вам может быть сложно постоянно поддерживать одинаковый уровень усилий",
+        "what_questions_should_you_ask_in_an_interview_4_1": "Существуют ли в компании инструменты публичного поощрения и вообще поддержания корпоративного духа?",
+        "what_questions_should_you_ask_in_an_interview_4_2": "Скорее всего, Вам очень важно ощущение единства команды, поэтому, если инструментов создания корпоративного духа нет, Вам будет тяжело работать",
+        "what_questions_should_you_ask_in_an_interview_5_1": null,
+        "what_questions_should_you_ask_in_an_interview_5_2": null
+      }
+    ],
+    "success": true
+  }
+}

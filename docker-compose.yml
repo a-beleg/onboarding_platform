@@ -1,0 +1,15 @@
+version: 'build'
+services:
+  json-server:
+    image: 0beleg/onboarding_platform:json-server
+    ports:
+      - "3030:3030"
+    restart: always
+
+  app:
+    image: 0beleg/onboarding_platform:app
+    ports:
+      - "80:80"
+    depends_on:
+      - json-server
+    restart: always

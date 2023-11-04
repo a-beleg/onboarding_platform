@@ -1,0 +1,1 @@
+export {LogoLight} from "./LogoLight";

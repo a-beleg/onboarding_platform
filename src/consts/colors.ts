@@ -1,0 +1,38 @@
+
+export enum Colors {
+  CommonPrimaryLight100 = '#fff',
+  CommonPrimaryDark100 = '#5000B6',
+  CommonPrimaryDark80 = '#7927E1',
+  CommonPrimaryDark40 = '#7B5AB7',
+  CommonPrimaryDark20 = '#A283D8',
+  CommonSecondary80 = '#FBF9F9',
+  CommonSecondary60 = '#EDEBED',
+  CommonSecondary40 = '#DED6D9',
+  CommonDisableLight = '#D9D9D9',
+  CommonDisableDark = '#4d3b6d',
+
+  TextPrimaryLight100 = '#fff',
+  TextPrimaryDark80 = '#7927E1',
+  TextPrimaryDark40 = '#7B5AB7',
+  TextPrimaryDark20 = '#A283D8',
+  TextSecondary = '#B5ADC2',
+  TextDisableLight = '#D9D9D9',
+  TextDisableDark = '#705C8A',
+  TextTabBarActive = '#4128C6',
+  LineTabBar = '#4029C7',
+
+  BorderDefault = '#CEC1E5',
+  BorderHover = '#7B5AB7',
+  BorderDisabledLight = '#E5E2E9',
+  BorderDisabledDark = '#4d3b6d',
+
+  AccentPrimaryLight100 = '#6EE6FF',
+  AccentITSecondary = '#BCF3FE',
+  AccentBusinessProcessPrimary = '#9201E4',
+  AccentRapidStartPrimary = '#F6A07D',
+  AccentRapidStartSecondary = '#FACBB7',
+  AccentBusinessProcessSecondary = '#D99AFE',
+  Error = '#D72751',
+  MainNewLightBeige = '#E7E4EA',
+  GradientGradBtn = 'linear-gradient(89.66deg, #6AC5F5 0.21%, #6F86E2 18.07%, #4E51D2 43.92%, #773DCB 69.17%, #A32AC5 101.47%);',
+}
