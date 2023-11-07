@@ -1,4 +1,4 @@
-version: 'build'
+version: '3'
 services:
   json-server:
     image: 0beleg/onboarding_platform:json-server
